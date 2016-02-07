@@ -1,0 +1,1108 @@
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Are you a Devops Engineer who has chef, AWS and large scale clustering experience?  If so, read on...We are the adtech arm of a large media conglomerate.  Due to recent growth, we are looking to add another Devops Engineer to our already established top notch technology team!  You will get to work with some of LA's brightest minds, have a strong work/life balance and enjoy coming to work every day!Top Reasons to Work with Us1. Strong culture - we work hard but lived balanced lives.2. Work for empathetic, employee focused managers.What You Will Be Doing- Design and perform system management, database management, configuration management, deep troubleshooting, preventative and corrective maintenance, performance monitoring and enhancement.- Coordinate tests of new software and systems.- Plan and define the requirements for off-hour systems maintenance work.- Oversee change management activities on the supported systems.- Define and implement security controls and capabilities in operating systems, layered products, and specialty software to achieve security goals.- Develop operations procedures, such as backups and recovery processes.- Install and configure Linux systems.- Assist business users and developers with the setup, installation, and testing of their applications.Interface with users and developers in order to resolve technical and user problems.What You Need for this Position- 3+ years of devops experience- Chef experience- AWS experience- Large Scale Infrastructure ExperienceWhat's In It for You- Competitive Compensation- Full Benefits- Great Location!So if you are a Devops Engineer who has chef, AWS and large scale clustering experience, apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Our company has offices worldwide but this unique position will be joining our team of brilliant technology and marketing specialists in the Boston office. Our product assists companies with their continuous integration and deployment while saving our clients (which include numerous prestigious companies) time and money!!!If you are a DevOps professional looking to take the next step in their career, please keep read on!Top Reasons to Work with Us- Take a step out of the cubical and work with interesting products and an amazing client list- This is a chance for a strong DevOps professional to individually brand themselves in an industry while joining a growing company- Strong starting salary with excellent room for growth!!!What You Will Be DoingYou will be our DevOps Evangelist! You will be creating interesting articles, Whitepapers, Blogs, eBooks, and other fun and enjoyable content that exhibits our company’s presence in the industry. We are looking for someone that can engage our consumer and articulate technical information in a way that all people can understand. You will be working with our products getting your hands onto several technologies while driving OUR and YOUR name further into the industry!What You Need for this Position- A very good understanding of DevOps is a MUST! - Excellent communication - Technical writing experience - Product Marketing or Sales Engineering is a plus!What's In It for You- Aggressive starting salary with  growth potential - Mac Laptop- Inspiring startup environment with an amazing culture - Performance incentives - PTOSo, if you are a Devops Evangelist looking for an exciting opportunity with a growing team, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Our company has offices worldwide but this unique position will be joining our team of brilliant technology and marketing specialists in the Boston office. Our product assists companies with their continuous integration and deployment while saving our clients (which include numerous prestigious companies) time and money!!!If you are a DevOps professional looking to take the next step in their career, please keep read on!Top Reasons to Work with Us- Take a step out of the cubical and work with interesting products and an amazing client list- This is a chance for a strong DevOps professional to individually brand themselves in an industry while joining a growing company- Strong starting salary with excellent room for growth!!!What You Will Be DoingYou will be our DevOps Editor ! You will be creating interesting articles, Whitepapers, Blogs, eBooks, and other fun and enjoyable content that exhibits our company’s presence in the industry. We are looking for someone that can engage our consumer and articulate technical information in a way that all people can understand. You will be working with our products getting your hands onto several technologies while driving OUR and YOUR name further into the industry!What You Need for this Position- A very good understanding of DevOps is a MUST! - Excellent communication - Technical writing experience - Product Marketing or Sales Engineering is a plus!What's In It for You- Aggressive starting salary with  growth potential - Mac Laptop- Inspiring startup environment with an amazing culture - Performance incentives - PTOSo, if you are a Devops Editor looking for an exciting opportunity with a growing team, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/07/2016
+                    
+
+If you are a DevOps Engineer, please read on!We are an extremely cool startup working in multiple industries including sports looking to build out our infrastructure team.   We are looking for someone who practices and thinks DevOps!  We are an AWS cloud and web services environment using tools that integrate with Chef.  Our services are written in Ruby, Openresty and Java.  You would be part of a team designing and building scalable, fault tolerant and performant systems.  We are looking for people that want to help take our tools to the next level and be part of our growth and build out.  Being a start up everyone rolls up their sleeves and wears multiple hats which is great for someone focused in working with cool tools in our environment!What You Need for this PositionRequirements:4+years of Infrastructure experience3+ years of DevOps experience3+ years of Amazon Web Services, AWS cloud2+ years of Chef or PuppetExperience with nginx or openrestyExperience with Elasticsearch administration or MySQL administrationExperience with a scripting language (i.e. Perl, Ruby, Python, Bash)Pluses:OpenrestyHashiCorp tools (Packer, Terraform, Vault, Consul)So, if you are a DevOps Engineer, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/06/2016
+                    
+
+If you are a DevOps Engineer with Linux, Puppet, Git and/or Kafka experience, please read on!
+
+Based in San Francisco, CA we are a well-funded Start-Up that allows game developers and other content providers to legally integrate into the real money gaming space. Our API has the capacity to take mobile, social and other games and fully turn them into an experience that allows betting/wagering- and it's all legal! We take care of all of the boring stuff (the math, auditing, licensing, infrastructure) so that Real Money Gaming Developers can focus on the important aspects of their business- building fun online experiences for their users.What You Will Be DoingWe are searching for a DevOps Engineer who is excited by the prospect of automating and supporting a large platform which sustains thousands of concurrent users on a daily basis. You will take advantage of automation and continuous integration tools to make your life easier, and ultimately take responsibility over the availability of our infrastructure and services.What You Need for this Position1.) A  BS degree in Computer Science is preferred2.) 3+ years of experience in Linux systems administration (though you don't call yourself a Systems Admin)
+3.) Experience with automation tools such as Puppet, Kafka and Nagios4.) Professional experience with Git version control systems5.) Scripting experience with a dynamic language: Python, Ruby, etc.6.) Ability to build out infrastructure tools to monitor and automate our environmentWhat's In It for YouFor your hard work, you will be rewarded with an offer that will include a solid base salary, bonuses, profit sharing/stock, a great and fun working environment, and other cool perks!Top Reasons to Work with Us1.) Our platform has achieved success in overseas markets such as the UK and is primed for success once the US market reopens for Online Real Money Gaming.2.) We offer competitive compensation packages complete with stock, benefits, PTO, vacation time, bonuses and More!3.) Large opportunity to make an immediate impact and achieve upward mobility of title, responsibilities at a rapid pace.Interviews are occurring this week and early next week, so please apply now if you are interested.
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/25/2016
+                    
+
+Founded in  1997, we are the innovator in hosting  presentations. This is now used for a variety of  mutual funds, private placements and hedge fund marketing. We work with almost every domestic and international investment bank as well as the global Fortune 500 in this arena. If you are a DevOps Engineer with experience, please read on!What You Will Be DoingWe are looking for a DevOps engineer to help us design and build virtualized environments and platform environments for enterprise-class applications. As a member of our engineering and software development team, you will play an important role in analyzing development requirements, designing and implementing solutions and delivering best in class deployment, configuration and distributed network based solutions.This experienced and automation-obsessed engineer will wrangle operations and application support processes for our next-generation data security, audit and financial platform technology. The Senior Dev-Ops Engineer will take the lead on developing automated systems for provisioning, deployment, monitoring, and support.What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Chef- Puppet- Infrastructure- Knowledgeable about technologies and practices around dev-ops and production support- Be capable of writing scripts that will fire off and orchestrate the complete deployments of DEV, QA and Production environments via tools such as Chef, Puppet, CFEngine or other tools of this kind.- Experience deploying applications in Amazon AWS, Google or Azure.- Experienced with deployments across server clusters/data centers- Experienced with Continuous Integration and Continuous Deployment systems such tools as GitHub, Jenkins, Vagrant, Docker and any other associated tools- Systems and application monitoringWhat's In It for YouFor your hard work, we offer a competitive salary, great work environment,  benefits, Vacation days, sick day, and many many more perks!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/21/2016
+                    
+
+Based in Chicago, we are a successful, established 15 year old web company embarking on new ventures and building out new sites and products.Top Reasons to Work with UsOur offices are fun, open and full of creativity and energy. We’re looking for talented technologists who are as interested in exploring new products as much as they are interested in building great technology to power them upon open source and cloud based platforms. We are extremely focused on the quality of engineering and using the best tools available.What You Will Be Doing-Provision new cloud servers and assist with automated continuous delivery of the software life cycle-Develop and maintain affiliate website code snippets using HTML, jQuery, JavaScript and CSS technologies -Provide technical support for data delivery and website configuration issues. This requires on-call support on a rotational basis-Work with the Affiliate Sales team to launch new affiliates across product lines-Work with the Newspaper Support team to troubleshoot and resolve escalated affiliate issues related to data feeds, advertising initiatives, code snippets, etc. -Work with the Quality Assurance team to troubleshoot and resolve affiliate-specific QA issues.-Work with the Advertising team to set up and maintain digital marketing campaigns including display banners and rich media displays-Work with the Advertising team to convert direct marketing email newsletter designs into HTML campaigns using XSLT technology-Work with the Analytics team to collect external data from Legacy.com vendors and other sourcesWhat You Need for this PositionAt least 1-3 years of experience/knowledge:-Linux and Windows-development experience with a solid background in HTML, CSS, JavaScript, jQuery-Possess working knowledge of Microsoft applications, including but not limited to Excel, PowerPoint, Word, Outlook, etc.-Develop and maintain Perl scripts that process data feeds from affiliates, vendors and other sources-Develop and maintain SQL Server Reporting Services reports for all departments-Develop and maintain process automation solutions for all departments-Bachelor’s Degree in Computer Science or related fieldSo, if you are a DevOps Support Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/21/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!We are a play studio that makes the best apps on the market for children that encourage imagination. Our apps are downloaded globally with over 80 million downloads. Our newest office in Brooklyn will be our new Video division to create an interactive video streaming application for kid's. You will be part of a small, nimble, collaborative team where everyone is expected to 'wear multiple hats' and really partake in the whole project. We are looking for people who are inspired to analyze, improve and contribute! Our company is dedicate to the power of play,. we want you to bring your playful spirit to work, and ensure that everything we make has a playful spirit as well!What You Will Be DoingThe DevOps Engineer will develop, design, and install software solutions that support our new video product. This role will execute full life cycle development, and work with the Director to build an appropriate team of resources.What You Need for this PositionAt Least 3 Years of experience and knowledge of:- DevOps- Coding web applications using at least one popular framework- Cloud Computing platform (Amazon AWS, Microsoft Azure, or Google App Engine)- Solid understanding of system and application design - TCP/IP, HTTP, Web App Security- Supporting multi-tier web application architectures. - Knowledge or familiarity with Video Streaming Applications or InfrastructureWhat's In It for You- Competitive Base Salary- Full Benefits- Flexible Schedule-So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/21/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!With offices both in the US and Canada, we are experts in critical communications solutions with great expertise in public safety and homeland security. We are currently seeking a talented DevOps engineer to join our team of strong engineers.What You Will Be Doing- Maintain software and hardware- Enhance installation scripts- Provide support to the development and test teamsWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Python- Groovy- ClearCase- ClearQuestWhat's In It for YouWe are willing to offer excellent compensation packages including a base salary that ranges between $90k-$140k, 401k and full health benefits.So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/11/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based out of New York City, we are a well-funded venture capital backed startup company that provides financial traders with world-class tools that capitalize on the incredible potential of block chain technologies.  We are a tech-first company, building innovative products based on the world’s most advanced block chain infrastructure.  We are growing quickly and are looking for candidates eager to shape the future of the finance industry by applying existing and newly-innovated technologies.  Currently, we are seeking an experienced DevOps Engineer to help improve our AWS infrastructure.Top Reasons to Work with Us1.  Competitive Salary2.  Company Equity3.  Be on the ground floor of a fast growing startup4.  Huge growth opportunityWhat You Need for this Position- DevOps Experience- Amazon Web Services (AWS)- Docker/Ansible- Mesos/Ubuntu- MongoDB/Redis- PostgreSQL- RabbitMQ/KafkaSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/14/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Top Reasons to Work with UsWe have one of the most sophisticated e-commerce SaaS platforms available on the market! We look to foster a collaborative and inviting environment around here-- everyone's opinion matters!What You Will Be Doing-  We're looking for a DevOps Engineer who's really a jack of all trades! Experience with Linux is a must, as is VMware and Networking experience.
+-  Manage servers, networking(Switches, Load Balancers, Firewalls) infrastructure to support Multi-datacenter SaaS platform. 
+-  Software deployment in a SaaS environment.
+-  Building infrastructure and migrating to new data center.
+
+Strong Pluses:
+-  Configuration Management and automation with Salt Stack.What You Need for this Position- Linux Systems Administration (Centos/RedHat - preferred).
+- Virtualization experience with VMWare (Xen/KVM).
+- Networking and Firewalls: (Switches/VLANS/Cisco ASA)
+-  Load Balancing (Stingray/Brocade/F5/Netscaler)
+-  Storage systems (FC/NFS/iSCSI)
+-  Ability to communicate effectively with all members of a cross-functional teamSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/18/2016
+                    
+
+If you are a DevOps Manager with experience, please read on!Based in Honolulu, HI, we're an airline that has led all U.S. carriers in on-time performance for each of the past 10 years as reported by the U.S. Department of Transportation.Top Reasons to Work with Us1. Huge stable company2. Competitive salary3. Great benefitsWhat You Will Be Doing-Manages the DevOps team responsible for implementation and support of the Application Lifecycle Management-Responsible for the implementation of Continuous Integration and Continuous Deployment to support custom application development -Provide leadership for the support of Hawaiian Airlines Web, Mobile, and Kiosk Applications-Provide management and leadership to onshore and offshore teamsGuide and support multiple development, test, and production environments across multiple platforms-Review and improve the current DevOps processes with industry best practices and technologies-Coach and mentor team members to grow their knowledge and skills-Maintain release schedule and product development statusWhat You Need for this Position-College degree or equivalent experience, relevant certifications, and professional training programs-8+ years of professional experience, with at least five years of relevant industry / technical experience-4+ years’ experience with Microsoft Team Foundation ServerPreferred Qualifications-Proven track record of managing both onshore and offshore teams-Experience with deployment using Sitecore TDS-Knowledge of Azure, AWS, or Rackspace preferredSo, if you are a DevOps Manager with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Our products deliver meaningful cost savings to top-tier employers throughout the United States. With more than 100 customers and over 300 employees, we are on the road to transforming the U.S. health care system into a consumer directed business. We believe every consumer should have the right and ability to know the quality and cost of services prior to making a purchase. The infrastructure team is responsible for automating our manuals tasks around builds, deployment and management of our systems including our production mission critical SAAS application. Our cloud based SAAS architecture which is built using our high performance service-oriented infrastructure using Ruby,Java and Angular JS as well as support for mobile on multiple platforms like Android, IOS and Windows.  We also are building applications using Python/Django.What You'll Do:- Automating build and deployment infrastructure using Python scripts- Build a continuous Integration and continuous Delivery Environment for applications including a Dashboard for environments and build status- Responsible for automating deployment to development, QA and production servers- Work closely with release team to operationalize the automation- Document Deployment procedures and troubleshooting issues with the automationWhat You Need:- 8 years of industry experience in software development- 3+ years of experience with Python in a professional software development environment- 2+ years of experience working with Linux- Experience automating builds and deploying to environments preferred with strong emphasis on data loadsPluses: - Experience with Perl, Jenkins, Java, MySQL, MongoDB a plus- Experience with a distributed version control system such as Git a plus as wellWhat You Get:- Competitive salary - Medical/Dental/Vision- PTO- 401(k) and more!***Please apply today if interested or you can send your resume to me directly (Word format please): steve.curran@cybercoders.comSo, if you are a Senior DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+We are the first marketplace that brings together thousands of educational products making it easy for parents & educators around the world to browse, shop, and discover innovative products that get their kids excited about learning. We also provide an incredibly tailored experience for sellers on our platform - helping small businesses gain exposure to new customers & markets, and big businesses scale their distribution even further. At the end of the day, our goal is to make education as affordable and accessible as possible.   We are right in the Bay Area and are looking for the best and brightest to join our tightknit team right away! We are looking for a smart, driven, and ambitious DevOps Engineer who is ready to expand their skill-set with an amazing team. If this is you, please read on!Top Reasons to Work with Us- Be a part of an amazing company that will take your career and your passion to the next level-Tons of room for career growth and opportunity!-Work with amazing and collaborative coworkers who like showing up to workWhat You Will Be Doing- Designing and building applications to aid in system and deployment administration- Troubleshooting, investigating and fixing production issues in a cloud environment, including both hardware and internal software issues.- Investigating and fixing performance issues in a variety of applications and languages- Designing and building features to improve system and personnel scalabilityWhat's In It for You- Top pay, benefits and ability to work in one of the most exciting technology fields- Casual work environment, surrounded by the best and the brightest technical and financial minds- Make a true impact on our company and products with high-visibility and possibilities for career growth- The opportunity to gain meaningful career development while working with the core development team- Opportunity to learn a ton and to continue to grow as a developerWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- DevOps- Docker- AWS- PHPSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+If you are a DevOps Engineer, a person who loves to being a Developer and System admin and embraces the DevOps movement. Please read on!Founded over 30 years ago, we are an industry leader for home decor. We have tackled the complexities of the E-Commerce world successfully which has resulted in continuous growth year over year at a high level. In addition our strong customer base has also helped grow our business tremendously over the years. We are truly a single source for all online home decor needs. We attribute our success to our extremely talented technology team which has built a world class eCommerce site. We look to stay on the cutting edge of our industry and seek the best and brightest to join our team. We are headquartered near Woodland Hills, CA and are currently searching for a DevOps Engineer to join our team!Top Reasons to Work with Us1. Join a stable and successful 30+ year growing company!2. Work with an innovative team that is pushing the technology envelope on a daily basis.3. Generous base salary and benefits package.What You Will Be Doing- Design, implement and maintain build, test automation and deployment pipe line- Solve technical problems and make improvements to our systems which includes deployment, monitoring and maintenance- Build tools for our internal use to improve and support our build and deploy process-Standardize, automate and document setup of development and production environment- Automate provisioning and configuration management.- Identify and correct bottlenecks in the system, and implement performance-enhancing technologies such as caching and code optimization.- Contribute to the planning and architecture of the future technology of our company.What You Need for this Position- Experience with Continuous Delivery and DevOps solutions (design and implementation)- Experience using Jenkins, Bamboo and Maven- Experience with MSBuild, NuGet- Experience with Puppet, Chef and Docker- Scripting experience using PowerShell- Experience writing detailed build plans- Experience with Agile methodologies- Experience with ASP.NET, WCF, Web API and SQL Server- Experience with Continuous integration for databases- Experience with Microsoft IIS configuration- Understand an familiar with Atlassian suite (Jira workflow automation is a plus!)- Knowledge of Test Automation- Experience developing Atlassian Jira plug-in is a big plus!- Bachelor's degree in Computer Science or related field or equivalent experienceWhat's In It for You- Great work environment - Company paid for medical, dental and vision- Catered lunch daily- Competitive vacation and 401k plans- Team oriented culture that starts at the top with the CEO- Fun and exciting company events including poker nights, family picnics and more- Rapidly growing company creating professional development opportunities- Company that values continued education in cutting-edge technologiesSo, if you are a Senior Operations Engineer or DevOps Engineer / Administrator with a passion for automated virtual infrastructures and a tools builder at heart, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+Based in Boston and founded in 2012, we are a computer software startup that is powering the top e-commerce sites around the world. We are a team of 50 dedicated and talented professionals seeking an experienced DevOps Engineer. We have an entrepreneurial state of mind with generous benefits, unlimited PTO, all the tools necessary, and flexible scheduling. We are a rapidly growing team and this is the best time to join us!Top Reasons to Work with Us1. Work with the newest technologies!2. Flexible scheduling3. Unlimited PTO!What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- Puppet- Python- AutomationWhat's In It for You- Competitive salary (100K-130K)- Unlimited PTO- Flexible scheduling- All the tools needed to work your best- Tons of room for growth!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+Are you looking to build out your own DevOps team?Top Reasons to Work with UsWe are a stable company founded back in 2006 who specializes in helping people raise funds for different causes.  Our fundraising platform is unlike any other on the market.  We have our own in house shop, connected to all the major brands (Amazon, Target, etc.) who donate based on the amount purchased.  We also have a search engine aggregator that ensures that we pay your cause every time it gets searched.   More than 15 million people used us last year and our mobile app has over 100,000 downloads.  We're doing extremely well and hope to continue to do so.  Our development team is still on the smaller side, we're by no means corporate; and this opening is for our first DevOps Engineer.  This position will eventually turn into a leadership position--but for right now, we want someone to continue our Agile Methodology.What You Will Be Doing* Development Testing* Deployment* Work closely with Product Development Team* Open source monitoring solutions* Strong scripting backgroundWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Postgres- Chef- Puppet- Linux- Ruby on Rails- DevOpsWhat's In It for You401K, PTO, Full benefits (medical, dental, vision), awesome work environment!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/03/2016
+                    
+
+We're a fast-paced, growing, and a downright cool Technology Company with tons of upside. We keep growing... and growing... and growing; hence, the need for someone like you. We're currently looking to hire a full-time DevOps Engineer to join our team. 
+
+We are willing to offer excellent compensation packages including a total compensation plan between $100K-$160K, Benefits, Bonus, etcWhat You Will Be Doing· Linux System Administrator responsible for the operation, maintenance, and support of the high-availability server/database/storage platforms located in remote Data Centers across multiple time zones.
+· Supports daily operations including monitoring, alerting, troubleshooting, capacity management, provisioning, hardware and software configuration, patching, upgrades and performance monitoring/tuning.
+· Maintain and troubleshoot in-house and 3rd party software, working with both internal/external groups to ensure our stack is effectively integrated, configured, managed and supported in production.
+· Act as liaison between different teams to help understand cross-functional requirements and contribute to discussions and planning as required to change those goals into reality.
+· Deliver project milestones and tasks assigned by manager on schedule, communicating progress regularly.
+· Author and update high-quality documentation of all relevant specifications, systems and procedures.
+· Once training is complete, support our 24x7 production environment including carrying an on-call pager on rotation for incident escalations.
+· May require evening and weekend work as needed to support business.What You Need for this Position· Minimum three (3) to five (5) years experience in a role with responsibility for installation, maintenance, tuning, security and high availability of Linux server infrastructures.
+· Minimum three (3) to five (5) years experience working as a Systems Engineer with common protocols/software such as: DNS, NTP, NFS, SMTP, HTTP, syslog, SSH
+· Demonstrable experience with cloud infrastructure automation such as Chef, CFEngine, or Puppet.
+· Strong familiarity with scripting languages; preference given to Ruby, Python, Bash, and Shell
+· Familiarity with agile software development lifecycle including source control systems (e.g; Git), ticketing systems (e.g; JIRA, Bugzilla) and managed workflows.
+· Familiarity with operations best practices, including usual themes (e.g; Backups, Security)
+· Excellent troubleshooting skills, able to nail down tricky problems. Used to isolating things down to network faults, hardware faults, knowledge of performance/tuning within Linux kernel
+· Bachelors degree or equivalent experience.What's In It for You- Vacation/PTO
+- Medical
+- Dental
+- Vision
+- Relocation Assistance
+- Bonus
+- 401(k)
+- Telecommute is possibleSo, if you are a DevOps Engineer with three 3 - 5 years of experience in a role with responsibility for installation, maintenance, tuning, security and high availability of Linux server infrastructures, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based out of beautiful San Francisco, we are a fast growing team that provides a modern approach to web and mobile analytics.  Our software automatically captures every user action in your application and lets you measure it all.  Everything from clicks, taps, swipes, form submissions, page views, and more.  Our customers are able to track events and segment users instantly.  Our revenue has grown more than ten times in the past year and we are scaling to meet our fast growing demand.  We are currently looking to hire our first infrastructure engineer to manage our DevOps challenges.  We are mainly looking for someone with strong software engineering skills with some DevOps experience.  If this sounds like you, than please apply today.  We would be happy to speak to you.Top Reasons to Work with Us1.  Competitive Salary2.  Great Benefits (Medical, Dental, Vision)3.  Be the 1st hire on our DevOps team4.  Flexible Hours and be able to work from home5.  Unlimited Vacation (just give us a heads up)6.  Free lunch and dinner!What You Need for this Position- DevOps- Amazon Web Services (AWS)- PostgreSQL- Kafka- Zookeeper- Node.JS- Redis- Linux Systems AdministrationSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Based in Milwaukee, WI, we are an exciting advertisement technology company.  We specialize in developing web based advertisement tools used by companies all over the country.  We development cutting edge technology that helps our clients have optimal exposure in the today's market.  Also we provide a great work-life balance for our employees.  We want you to join our team!We are urgently looking for a DevOps Engineer to join us!!!What You Need for this PositionAt least 3 Years of experience and knowledge of: - ASP.NET   - C#- SQL Server- Visual Studio- JavaScript- HTMLWhat's In It for You- Competitive Salary  ($100-140K)- Full- Benefits- Other great perks!!!Are you a fit for this position?
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Are you a Devops Engineer who has chef, AWS and large scale clustering experience?  If so, read on...We are the adtech arm of a large media conglomerate.  Due to recent growth, we are looking to add another Devops Engineer to our already established top notch technology team!  You will get to work with some of LA's brightest minds, have a strong work/life balance and enjoy coming to work every day!Top Reasons to Work with Us1. Strong culture - we work hard but lived balanced lives.2. Work for empathetic, employee focused managers.What You Will Be Doing- Design and perform system management, database management, configuration management, deep troubleshooting, preventative and corrective maintenance, performance monitoring and enhancement.- Coordinate tests of new software and systems.- Plan and define the requirements for off-hour systems maintenance work.- Oversee change management activities on the supported systems.- Define and implement security controls and capabilities in operating systems, layered products, and specialty software to achieve security goals.- Develop operations procedures, such as backups and recovery processes.- Install and configure Linux systems.- Assist business users and developers with the setup, installation, and testing of their applications.Interface with users and developers in order to resolve technical and user problems.What You Need for this Position- 3+ years of devops experience- Chef experience- AWS experience- Large Scale Infrastructure ExperienceWhat's In It for You- Competitive Compensation- Full Benefits- Great Location!So if you are a Devops Engineer who has chef, AWS and large scale clustering experience, apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Our company has offices worldwide but this unique position will be joining our team of brilliant technology and marketing specialists in the Boston office. Our product assists companies with their continuous integration and deployment while saving our clients (which include numerous prestigious companies) time and money!!!If you are a DevOps professional looking to take the next step in their career, please keep read on!Top Reasons to Work with Us- Take a step out of the cubical and work with interesting products and an amazing client list- This is a chance for a strong DevOps professional to individually brand themselves in an industry while joining a growing company- Strong starting salary with excellent room for growth!!!What You Will Be DoingYou will be our DevOps Evangelist! You will be creating interesting articles, Whitepapers, Blogs, eBooks, and other fun and enjoyable content that exhibits our company’s presence in the industry. We are looking for someone that can engage our consumer and articulate technical information in a way that all people can understand. You will be working with our products getting your hands onto several technologies while driving OUR and YOUR name further into the industry!What You Need for this Position- A very good understanding of DevOps is a MUST! - Excellent communication - Technical writing experience - Product Marketing or Sales Engineering is a plus!What's In It for You- Aggressive starting salary with  growth potential - Mac Laptop- Inspiring startup environment with an amazing culture - Performance incentives - PTOSo, if you are a Devops Evangelist looking for an exciting opportunity with a growing team, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Our company has offices worldwide but this unique position will be joining our team of brilliant technology and marketing specialists in the Boston office. Our product assists companies with their continuous integration and deployment while saving our clients (which include numerous prestigious companies) time and money!!!If you are a DevOps professional looking to take the next step in their career, please keep read on!Top Reasons to Work with Us- Take a step out of the cubical and work with interesting products and an amazing client list- This is a chance for a strong DevOps professional to individually brand themselves in an industry while joining a growing company- Strong starting salary with excellent room for growth!!!What You Will Be DoingYou will be our DevOps Editor ! You will be creating interesting articles, Whitepapers, Blogs, eBooks, and other fun and enjoyable content that exhibits our company’s presence in the industry. We are looking for someone that can engage our consumer and articulate technical information in a way that all people can understand. You will be working with our products getting your hands onto several technologies while driving OUR and YOUR name further into the industry!What You Need for this Position- A very good understanding of DevOps is a MUST! - Excellent communication - Technical writing experience - Product Marketing or Sales Engineering is a plus!What's In It for You- Aggressive starting salary with  growth potential - Mac Laptop- Inspiring startup environment with an amazing culture - Performance incentives - PTOSo, if you are a Devops Editor looking for an exciting opportunity with a growing team, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/07/2016
+                    
+
+If you are a DevOps Engineer, please read on!We are an extremely cool startup working in multiple industries including sports looking to build out our infrastructure team.   We are looking for someone who practices and thinks DevOps!  We are an AWS cloud and web services environment using tools that integrate with Chef.  Our services are written in Ruby, Openresty and Java.  You would be part of a team designing and building scalable, fault tolerant and performant systems.  We are looking for people that want to help take our tools to the next level and be part of our growth and build out.  Being a start up everyone rolls up their sleeves and wears multiple hats which is great for someone focused in working with cool tools in our environment!What You Need for this PositionRequirements:4+years of Infrastructure experience3+ years of DevOps experience3+ years of Amazon Web Services, AWS cloud2+ years of Chef or PuppetExperience with nginx or openrestyExperience with Elasticsearch administration or MySQL administrationExperience with a scripting language (i.e. Perl, Ruby, Python, Bash)Pluses:OpenrestyHashiCorp tools (Packer, Terraform, Vault, Consul)So, if you are a DevOps Engineer, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/06/2016
+                    
+
+If you are a DevOps Engineer with Linux, Puppet, Git and/or Kafka experience, please read on!
+
+Based in San Francisco, CA we are a well-funded Start-Up that allows game developers and other content providers to legally integrate into the real money gaming space. Our API has the capacity to take mobile, social and other games and fully turn them into an experience that allows betting/wagering- and it's all legal! We take care of all of the boring stuff (the math, auditing, licensing, infrastructure) so that Real Money Gaming Developers can focus on the important aspects of their business- building fun online experiences for their users.What You Will Be DoingWe are searching for a DevOps Engineer who is excited by the prospect of automating and supporting a large platform which sustains thousands of concurrent users on a daily basis. You will take advantage of automation and continuous integration tools to make your life easier, and ultimately take responsibility over the availability of our infrastructure and services.What You Need for this Position1.) A  BS degree in Computer Science is preferred2.) 3+ years of experience in Linux systems administration (though you don't call yourself a Systems Admin)
+3.) Experience with automation tools such as Puppet, Kafka and Nagios4.) Professional experience with Git version control systems5.) Scripting experience with a dynamic language: Python, Ruby, etc.6.) Ability to build out infrastructure tools to monitor and automate our environmentWhat's In It for YouFor your hard work, you will be rewarded with an offer that will include a solid base salary, bonuses, profit sharing/stock, a great and fun working environment, and other cool perks!Top Reasons to Work with Us1.) Our platform has achieved success in overseas markets such as the UK and is primed for success once the US market reopens for Online Real Money Gaming.2.) We offer competitive compensation packages complete with stock, benefits, PTO, vacation time, bonuses and More!3.) Large opportunity to make an immediate impact and achieve upward mobility of title, responsibilities at a rapid pace.Interviews are occurring this week and early next week, so please apply now if you are interested.
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/25/2016
+                    
+
+Founded in  1997, we are the innovator in hosting  presentations. This is now used for a variety of  mutual funds, private placements and hedge fund marketing. We work with almost every domestic and international investment bank as well as the global Fortune 500 in this arena. If you are a DevOps Engineer with experience, please read on!What You Will Be DoingWe are looking for a DevOps engineer to help us design and build virtualized environments and platform environments for enterprise-class applications. As a member of our engineering and software development team, you will play an important role in analyzing development requirements, designing and implementing solutions and delivering best in class deployment, configuration and distributed network based solutions.This experienced and automation-obsessed engineer will wrangle operations and application support processes for our next-generation data security, audit and financial platform technology. The Senior Dev-Ops Engineer will take the lead on developing automated systems for provisioning, deployment, monitoring, and support.What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Chef- Puppet- Infrastructure- Knowledgeable about technologies and practices around dev-ops and production support- Be capable of writing scripts that will fire off and orchestrate the complete deployments of DEV, QA and Production environments via tools such as Chef, Puppet, CFEngine or other tools of this kind.- Experience deploying applications in Amazon AWS, Google or Azure.- Experienced with deployments across server clusters/data centers- Experienced with Continuous Integration and Continuous Deployment systems such tools as GitHub, Jenkins, Vagrant, Docker and any other associated tools- Systems and application monitoringWhat's In It for YouFor your hard work, we offer a competitive salary, great work environment,  benefits, Vacation days, sick day, and many many more perks!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/21/2016
+                    
+
+Based in Chicago, we are a successful, established 15 year old web company embarking on new ventures and building out new sites and products.Top Reasons to Work with UsOur offices are fun, open and full of creativity and energy. We’re looking for talented technologists who are as interested in exploring new products as much as they are interested in building great technology to power them upon open source and cloud based platforms. We are extremely focused on the quality of engineering and using the best tools available.What You Will Be Doing-Provision new cloud servers and assist with automated continuous delivery of the software life cycle-Develop and maintain affiliate website code snippets using HTML, jQuery, JavaScript and CSS technologies -Provide technical support for data delivery and website configuration issues. This requires on-call support on a rotational basis-Work with the Affiliate Sales team to launch new affiliates across product lines-Work with the Newspaper Support team to troubleshoot and resolve escalated affiliate issues related to data feeds, advertising initiatives, code snippets, etc. -Work with the Quality Assurance team to troubleshoot and resolve affiliate-specific QA issues.-Work with the Advertising team to set up and maintain digital marketing campaigns including display banners and rich media displays-Work with the Advertising team to convert direct marketing email newsletter designs into HTML campaigns using XSLT technology-Work with the Analytics team to collect external data from Legacy.com vendors and other sourcesWhat You Need for this PositionAt least 1-3 years of experience/knowledge:-Linux and Windows-development experience with a solid background in HTML, CSS, JavaScript, jQuery-Possess working knowledge of Microsoft applications, including but not limited to Excel, PowerPoint, Word, Outlook, etc.-Develop and maintain Perl scripts that process data feeds from affiliates, vendors and other sources-Develop and maintain SQL Server Reporting Services reports for all departments-Develop and maintain process automation solutions for all departments-Bachelor’s Degree in Computer Science or related fieldSo, if you are a DevOps Support Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/21/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!We are a play studio that makes the best apps on the market for children that encourage imagination. Our apps are downloaded globally with over 80 million downloads. Our newest office in Brooklyn will be our new Video division to create an interactive video streaming application for kid's. You will be part of a small, nimble, collaborative team where everyone is expected to 'wear multiple hats' and really partake in the whole project. We are looking for people who are inspired to analyze, improve and contribute! Our company is dedicate to the power of play,. we want you to bring your playful spirit to work, and ensure that everything we make has a playful spirit as well!What You Will Be DoingThe DevOps Engineer will develop, design, and install software solutions that support our new video product. This role will execute full life cycle development, and work with the Director to build an appropriate team of resources.What You Need for this PositionAt Least 3 Years of experience and knowledge of:- DevOps- Coding web applications using at least one popular framework- Cloud Computing platform (Amazon AWS, Microsoft Azure, or Google App Engine)- Solid understanding of system and application design - TCP/IP, HTTP, Web App Security- Supporting multi-tier web application architectures. - Knowledge or familiarity with Video Streaming Applications or InfrastructureWhat's In It for You- Competitive Base Salary- Full Benefits- Flexible Schedule-So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/21/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!With offices both in the US and Canada, we are experts in critical communications solutions with great expertise in public safety and homeland security. We are currently seeking a talented DevOps engineer to join our team of strong engineers.What You Will Be Doing- Maintain software and hardware- Enhance installation scripts- Provide support to the development and test teamsWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Python- Groovy- ClearCase- ClearQuestWhat's In It for YouWe are willing to offer excellent compensation packages including a base salary that ranges between $90k-$140k, 401k and full health benefits.So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/11/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based out of New York City, we are a well-funded venture capital backed startup company that provides financial traders with world-class tools that capitalize on the incredible potential of block chain technologies.  We are a tech-first company, building innovative products based on the world’s most advanced block chain infrastructure.  We are growing quickly and are looking for candidates eager to shape the future of the finance industry by applying existing and newly-innovated technologies.  Currently, we are seeking an experienced DevOps Engineer to help improve our AWS infrastructure.Top Reasons to Work with Us1.  Competitive Salary2.  Company Equity3.  Be on the ground floor of a fast growing startup4.  Huge growth opportunityWhat You Need for this Position- DevOps Experience- Amazon Web Services (AWS)- Docker/Ansible- Mesos/Ubuntu- MongoDB/Redis- PostgreSQL- RabbitMQ/KafkaSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/14/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Top Reasons to Work with UsWe have one of the most sophisticated e-commerce SaaS platforms available on the market! We look to foster a collaborative and inviting environment around here-- everyone's opinion matters!What You Will Be Doing-  We're looking for a DevOps Engineer who's really a jack of all trades! Experience with Linux is a must, as is VMware and Networking experience.
+-  Manage servers, networking(Switches, Load Balancers, Firewalls) infrastructure to support Multi-datacenter SaaS platform. 
+-  Software deployment in a SaaS environment.
+-  Building infrastructure and migrating to new data center.
+
+Strong Pluses:
+-  Configuration Management and automation with Salt Stack.What You Need for this Position- Linux Systems Administration (Centos/RedHat - preferred).
+- Virtualization experience with VMWare (Xen/KVM).
+- Networking and Firewalls: (Switches/VLANS/Cisco ASA)
+-  Load Balancing (Stingray/Brocade/F5/Netscaler)
+-  Storage systems (FC/NFS/iSCSI)
+-  Ability to communicate effectively with all members of a cross-functional teamSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/18/2016
+                    
+
+If you are a DevOps Manager with experience, please read on!Based in Honolulu, HI, we're an airline that has led all U.S. carriers in on-time performance for each of the past 10 years as reported by the U.S. Department of Transportation.Top Reasons to Work with Us1. Huge stable company2. Competitive salary3. Great benefitsWhat You Will Be Doing-Manages the DevOps team responsible for implementation and support of the Application Lifecycle Management-Responsible for the implementation of Continuous Integration and Continuous Deployment to support custom application development -Provide leadership for the support of Hawaiian Airlines Web, Mobile, and Kiosk Applications-Provide management and leadership to onshore and offshore teamsGuide and support multiple development, test, and production environments across multiple platforms-Review and improve the current DevOps processes with industry best practices and technologies-Coach and mentor team members to grow their knowledge and skills-Maintain release schedule and product development statusWhat You Need for this Position-College degree or equivalent experience, relevant certifications, and professional training programs-8+ years of professional experience, with at least five years of relevant industry / technical experience-4+ years’ experience with Microsoft Team Foundation ServerPreferred Qualifications-Proven track record of managing both onshore and offshore teams-Experience with deployment using Sitecore TDS-Knowledge of Azure, AWS, or Rackspace preferredSo, if you are a DevOps Manager with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Our products deliver meaningful cost savings to top-tier employers throughout the United States. With more than 100 customers and over 300 employees, we are on the road to transforming the U.S. health care system into a consumer directed business. We believe every consumer should have the right and ability to know the quality and cost of services prior to making a purchase. The infrastructure team is responsible for automating our manuals tasks around builds, deployment and management of our systems including our production mission critical SAAS application. Our cloud based SAAS architecture which is built using our high performance service-oriented infrastructure using Ruby,Java and Angular JS as well as support for mobile on multiple platforms like Android, IOS and Windows.  We also are building applications using Python/Django.What You'll Do:- Automating build and deployment infrastructure using Python scripts- Build a continuous Integration and continuous Delivery Environment for applications including a Dashboard for environments and build status- Responsible for automating deployment to development, QA and production servers- Work closely with release team to operationalize the automation- Document Deployment procedures and troubleshooting issues with the automationWhat You Need:- 8 years of industry experience in software development- 3+ years of experience with Python in a professional software development environment- 2+ years of experience working with Linux- Experience automating builds and deploying to environments preferred with strong emphasis on data loadsPluses: - Experience with Perl, Jenkins, Java, MySQL, MongoDB a plus- Experience with a distributed version control system such as Git a plus as wellWhat You Get:- Competitive salary - Medical/Dental/Vision- PTO- 401(k) and more!***Please apply today if interested or you can send your resume to me directly (Word format please): steve.curran@cybercoders.comSo, if you are a Senior DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+We are the first marketplace that brings together thousands of educational products making it easy for parents & educators around the world to browse, shop, and discover innovative products that get their kids excited about learning. We also provide an incredibly tailored experience for sellers on our platform - helping small businesses gain exposure to new customers & markets, and big businesses scale their distribution even further. At the end of the day, our goal is to make education as affordable and accessible as possible.   We are right in the Bay Area and are looking for the best and brightest to join our tightknit team right away! We are looking for a smart, driven, and ambitious DevOps Engineer who is ready to expand their skill-set with an amazing team. If this is you, please read on!Top Reasons to Work with Us- Be a part of an amazing company that will take your career and your passion to the next level-Tons of room for career growth and opportunity!-Work with amazing and collaborative coworkers who like showing up to workWhat You Will Be Doing- Designing and building applications to aid in system and deployment administration- Troubleshooting, investigating and fixing production issues in a cloud environment, including both hardware and internal software issues.- Investigating and fixing performance issues in a variety of applications and languages- Designing and building features to improve system and personnel scalabilityWhat's In It for You- Top pay, benefits and ability to work in one of the most exciting technology fields- Casual work environment, surrounded by the best and the brightest technical and financial minds- Make a true impact on our company and products with high-visibility and possibilities for career growth- The opportunity to gain meaningful career development while working with the core development team- Opportunity to learn a ton and to continue to grow as a developerWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- DevOps- Docker- AWS- PHPSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+If you are a DevOps Engineer, a person who loves to being a Developer and System admin and embraces the DevOps movement. Please read on!Founded over 30 years ago, we are an industry leader for home decor. We have tackled the complexities of the E-Commerce world successfully which has resulted in continuous growth year over year at a high level. In addition our strong customer base has also helped grow our business tremendously over the years. We are truly a single source for all online home decor needs. We attribute our success to our extremely talented technology team which has built a world class eCommerce site. We look to stay on the cutting edge of our industry and seek the best and brightest to join our team. We are headquartered near Woodland Hills, CA and are currently searching for a DevOps Engineer to join our team!Top Reasons to Work with Us1. Join a stable and successful 30+ year growing company!2. Work with an innovative team that is pushing the technology envelope on a daily basis.3. Generous base salary and benefits package.What You Will Be Doing- Design, implement and maintain build, test automation and deployment pipe line- Solve technical problems and make improvements to our systems which includes deployment, monitoring and maintenance- Build tools for our internal use to improve and support our build and deploy process-Standardize, automate and document setup of development and production environment- Automate provisioning and configuration management.- Identify and correct bottlenecks in the system, and implement performance-enhancing technologies such as caching and code optimization.- Contribute to the planning and architecture of the future technology of our company.What You Need for this Position- Experience with Continuous Delivery and DevOps solutions (design and implementation)- Experience using Jenkins, Bamboo and Maven- Experience with MSBuild, NuGet- Experience with Puppet, Chef and Docker- Scripting experience using PowerShell- Experience writing detailed build plans- Experience with Agile methodologies- Experience with ASP.NET, WCF, Web API and SQL Server- Experience with Continuous integration for databases- Experience with Microsoft IIS configuration- Understand an familiar with Atlassian suite (Jira workflow automation is a plus!)- Knowledge of Test Automation- Experience developing Atlassian Jira plug-in is a big plus!- Bachelor's degree in Computer Science or related field or equivalent experienceWhat's In It for You- Great work environment - Company paid for medical, dental and vision- Catered lunch daily- Competitive vacation and 401k plans- Team oriented culture that starts at the top with the CEO- Fun and exciting company events including poker nights, family picnics and more- Rapidly growing company creating professional development opportunities- Company that values continued education in cutting-edge technologiesSo, if you are a Senior Operations Engineer or DevOps Engineer / Administrator with a passion for automated virtual infrastructures and a tools builder at heart, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+Based in Boston and founded in 2012, we are a computer software startup that is powering the top e-commerce sites around the world. We are a team of 50 dedicated and talented professionals seeking an experienced DevOps Engineer. We have an entrepreneurial state of mind with generous benefits, unlimited PTO, all the tools necessary, and flexible scheduling. We are a rapidly growing team and this is the best time to join us!Top Reasons to Work with Us1. Work with the newest technologies!2. Flexible scheduling3. Unlimited PTO!What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- Puppet- Python- AutomationWhat's In It for You- Competitive salary (100K-130K)- Unlimited PTO- Flexible scheduling- All the tools needed to work your best- Tons of room for growth!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/02/2016
+                    
+
+Are you looking to build out your own DevOps team?Top Reasons to Work with UsWe are a stable company founded back in 2006 who specializes in helping people raise funds for different causes.  Our fundraising platform is unlike any other on the market.  We have our own in house shop, connected to all the major brands (Amazon, Target, etc.) who donate based on the amount purchased.  We also have a search engine aggregator that ensures that we pay your cause every time it gets searched.   More than 15 million people used us last year and our mobile app has over 100,000 downloads.  We're doing extremely well and hope to continue to do so.  Our development team is still on the smaller side, we're by no means corporate; and this opening is for our first DevOps Engineer.  This position will eventually turn into a leadership position--but for right now, we want someone to continue our Agile Methodology.What You Will Be Doing* Development Testing* Deployment* Work closely with Product Development Team* Open source monitoring solutions* Strong scripting backgroundWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Postgres- Chef- Puppet- Linux- Ruby on Rails- DevOpsWhat's In It for You401K, PTO, Full benefits (medical, dental, vision), awesome work environment!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/03/2016
+                    
+
+We're a fast-paced, growing, and a downright cool Technology Company with tons of upside. We keep growing... and growing... and growing; hence, the need for someone like you. We're currently looking to hire a full-time DevOps Engineer to join our team. 
+
+We are willing to offer excellent compensation packages including a total compensation plan between $100K-$160K, Benefits, Bonus, etcWhat You Will Be Doing· Linux System Administrator responsible for the operation, maintenance, and support of the high-availability server/database/storage platforms located in remote Data Centers across multiple time zones.
+· Supports daily operations including monitoring, alerting, troubleshooting, capacity management, provisioning, hardware and software configuration, patching, upgrades and performance monitoring/tuning.
+· Maintain and troubleshoot in-house and 3rd party software, working with both internal/external groups to ensure our stack is effectively integrated, configured, managed and supported in production.
+· Act as liaison between different teams to help understand cross-functional requirements and contribute to discussions and planning as required to change those goals into reality.
+· Deliver project milestones and tasks assigned by manager on schedule, communicating progress regularly.
+· Author and update high-quality documentation of all relevant specifications, systems and procedures.
+· Once training is complete, support our 24x7 production environment including carrying an on-call pager on rotation for incident escalations.
+· May require evening and weekend work as needed to support business.What You Need for this Position· Minimum three (3) to five (5) years experience in a role with responsibility for installation, maintenance, tuning, security and high availability of Linux server infrastructures.
+· Minimum three (3) to five (5) years experience working as a Systems Engineer with common protocols/software such as: DNS, NTP, NFS, SMTP, HTTP, syslog, SSH
+· Demonstrable experience with cloud infrastructure automation such as Chef, CFEngine, or Puppet.
+· Strong familiarity with scripting languages; preference given to Ruby, Python, Bash, and Shell
+· Familiarity with agile software development lifecycle including source control systems (e.g; Git), ticketing systems (e.g; JIRA, Bugzilla) and managed workflows.
+· Familiarity with operations best practices, including usual themes (e.g; Backups, Security)
+· Excellent troubleshooting skills, able to nail down tricky problems. Used to isolating things down to network faults, hardware faults, knowledge of performance/tuning within Linux kernel
+· Bachelors degree or equivalent experience.What's In It for You- Vacation/PTO
+- Medical
+- Dental
+- Vision
+- Relocation Assistance
+- Bonus
+- 401(k)
+- Telecommute is possibleSo, if you are a DevOps Engineer with three 3 - 5 years of experience in a role with responsibility for installation, maintenance, tuning, security and high availability of Linux server infrastructures, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based out of beautiful San Francisco, we are a fast growing team that provides a modern approach to web and mobile analytics.  Our software automatically captures every user action in your application and lets you measure it all.  Everything from clicks, taps, swipes, form submissions, page views, and more.  Our customers are able to track events and segment users instantly.  Our revenue has grown more than ten times in the past year and we are scaling to meet our fast growing demand.  We are currently looking to hire our first infrastructure engineer to manage our DevOps challenges.  We are mainly looking for someone with strong software engineering skills with some DevOps experience.  If this sounds like you, than please apply today.  We would be happy to speak to you.Top Reasons to Work with Us1.  Competitive Salary2.  Great Benefits (Medical, Dental, Vision)3.  Be the 1st hire on our DevOps team4.  Flexible Hours and be able to work from home5.  Unlimited Vacation (just give us a heads up)6.  Free lunch and dinner!What You Need for this Position- DevOps- Amazon Web Services (AWS)- PostgreSQL- Kafka- Zookeeper- Node.JS- Redis- Linux Systems AdministrationSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Based in Milwaukee, WI, we are an exciting advertisement technology company.  We specialize in developing web based advertisement tools used by companies all over the country.  We development cutting edge technology that helps our clients have optimal exposure in the today's market.  Also we provide a great work-life balance for our employees.  We want you to join our team!We are urgently looking for a DevOps Engineer to join us!!!What You Need for this PositionAt least 3 Years of experience and knowledge of: - ASP.NET   - C#- SQL Server- Visual Studio- JavaScript- HTMLWhat's In It for You- Competitive Salary  ($100-140K)- Full- Benefits- Other great perks!!!Are you a fit for this position?
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!We are a premier San Francisco Media buying and AdTech Series B Start-up who have taken great lengths to innovate the way sales executives and consumers interact with online videos and other forms of digital media. We are looking for a talented software engineer who is looking to maintain/build complex web apps that will allow our users to display digital content more effectively than our competitors. We are coming off a recent round of funding, have extremely strong backers and are prepared to offer start-up equity and a competitive base salary! We are really looking for someone to grow with our company and become a lead very quickly! We are rapidly growing our team and currently looking to hire extremely talented DevOps Engineers who have a strong background with Unix/Linus systems.  If you excel with languages like Python, Perl, and Ruby, have experience with Amazon Web Services (AWS) technologies like EC2/S3, and have managed a DevOps team we would love to tell you more about this amazing opportunity.Top Reasons to Work with Us-Competitive Base Salary - Equity - Full Benefits - 401k-PTO(Paid Time Off)-Company Happy Hours- Work Life Balance -Title/Career advancementClose to Public TransportationWhat You Will Be Doing- Work with other engineers  to assist configuration - Work with AWS technologies EC2 & S3- Unix/Linux Systems- Perl/Python/Ruby - Linux networking and shell scripting - Configuration management;  Puppet or Chef- Troubleshooting C/C++, or JavaWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Unix/Linux- Python- Perl- Ruby- AWS- EC2/s3- C/C++- Java- DevOps- Linux AdministrationWhat's In It for You1.) We are a Start-up company, primed for a successful exit which will be profitable for the team's members (a.k.a. you!).2.) Plenty of opportunity to grow with the company- fantastic upward mobility in title/responsibilities.3.) Excellent office location with easy public transportation access and lots of surrounding places for after-work entertainment.So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/30/2016
+                    
+
+Are you a DevOps Engineer with experience in a windows environment? Are you a well-rounded engineer looking to move into a DevOps position? Are you looking to join a stable company with an awesome company culture?Based in Watertown, MA, we are an established company that is looking to grow our DevOps team. This is is a fantastic time to join our organization as have already become the leader in our industry and we are about to get going on our next generation of products!If this sounds like you, please apply below!!Top Reasons to Work with Us1. Growth potential is huge! We make successful career paths for our employees.2. Competitive salary and benefits!3. Best of both worlds - Well-established with a global presence, but still privately held with a great environmentWhat You Will Be DoingYou are going to help us bridge the gap between windows development, product development, and operations. Depending on your level of experience, you can can come in and hit the ground running, or we can show you the ropes. Either way, you will grow into a Senior DevOps Engineer fairly quickly!What You Need for this Position- Experience working in a windows environment- Scripting experience (ideally PowerShell)- Experience working with customer requirementsWhat's In It for You- Competitive salary up to 90K- Bonus- Career growth- Great benefits- Awesome company cultureSo, if you are a DevOps Engineer with experience in a Windows environment, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/01/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based in Boston and founded in 2012, we are a computer software startup that is powering the top e-commerce sites around the world. We are a team of 50 dedicated and talented professionals seeking an experienced DevOps Engineer. We have an entrepreneurial state of mind with generous benefits, unlimited PTO, all the tools necessary, and flexible scheduling. We are a rapidly growing team and this is the best time to join us!Top Reasons to Work with Us1. Work with the newest technologies!2. Flexible scheduling3. Unlimited PTO!What You Need for this PositionMore Than 5 Years of experience and knowledge of:- Linux- Puppet- Chef- AWSWhat's In It for You- Competitive salary (120K-175K)- Unlimited PTO- Flexible scheduling- All the tools needed to work your best- Tons of room for growth!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/01/2016
+                    
+
+Based near Park City, UT, we are a digital advertisement company with a unique niche in our industry.  We partner with high-value web retailers from all over the world.  We have a great work life balance for our employees and want you to join us!Currently we are looking for a DevOps Engineer to join our team.What You Need for this PositionExperience working in a high-availability web operations environment• Proficiency with Apache/nginx• Proficiency with MySQL and MySQL replication• Proficiency with PHPPreferred• Experience using Amazon Web Services• Experience with caching solutions, like Memcache or Redis• Experience with load balancing solutions• Experience setting up and using monitoring solutions, like Nagios, Zabbix, and NewRelic• Experience with DNS configurations• Experience with SSL certificatesWhat's In It for You- Competitive Salary ($90-130K)- Great Benefits - Flexible work hours- A fun work environment-  Ski Utah Gold passesAre you a fit for this position?
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/28/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Revolutionizing Performance-based Marketing:We bring clarity to digital marketing campaigns for clients around the world. Our software empowers organizations large and small to measure the impact of their marketing efforts and make the most of their digital spend.Our culture is reflective of the people who spend their days building and supporting our products and managing our  close customer relationships. Our dynamic culture and vibrant work environment promote the creativity and innovation that drive our marketing technology solutions.We cultivate an open culture that’s vibrant and casual. We value work/life balance, efficiency, simplicity, collaboration and creativity. Our team is passionate about pushing technology forward while designing solutions for our industry’s dynamic, complex business challenges. Whether you’re a talented software engineer, product development guru or passionate technology sales pro, you’ll find yourself right at home.Top Reasons to Work with Us-Awesome Company Culture-Innovative Team-Great compensation packageWhat You Will Be DoingAs a DevOps Engineer, you will utilize your combination of significant Windows & Linux experience, network knowledge, scripting abilities, information security and debugging skills to design, deploy, monitor and automate all operational aspects of our platform.You will be joining the DevOps team and be responsible for deploying both offensive and defensive techniques to keep our platform humming. You should have a background in large-scale system administration and be familiar with open source technologies, such as Jenkins (continuous integration), Puppet/Chef, MSSQL, Cassandra, NoSQL, Redshift, and MySQL. You will work very closely with the product and development teams. The Opportunity As part of the DevOps team, you will: -Perform Advanced Server Administration: configuring, managing, patching (Windows/Linux)-Execute Advanced IIS Management-Be the Primary for 3rd party multiple Domain/SSL Management (single/UCC)-Implement DNS Management through 3rd party tools-Utilize your awesome Scripting and Systems/Process Automation skills (AWS Toolkit, PowerShell, Python, etc.) for advanced deployments and tools building.-Possess Advanced Microsoft SQL Server administration/scripting skills-Pioneer Amazon Web Services Management (all areas of AWS console) through automation and scripting in multiple regions.What You Need for this PositionAt Least 1 Year of experience and knowledge of:- powershell- Windows/Linux- Python- BASH- DNS- HTTP- SSL- NODESo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/26/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on! We are a  Portland, Oregon based software company that specializes in making mobile payment solutions easy. We provide a secure, mobile payment and mobile ticketing platform for transit customers interested in moving to open payments, open data, and mobile fare collection with minimal infrastructure investment. We have an immediate opening for a DevOps Engineer to join our team! So if you are a talented DevOps Engineer with experience then please keep reading!What's In It for YouThe right candidate will receive a competitive base salary, benefits, PTO, an excellent work culture and much more!What You Will Be Doing- Administer and monitor various services running on Linux- Assist the engineering team with completing key tasks and ?xing a variety of technical issues- Assist in the development and delivery of product demonstrations- debug networking and system problemsWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- Python- BASH- AWS/Cloud Environment - SQL/NoSQLTop Reasons to Work with Us- Plenty of opportunity to grow with the company- fantastic upward mobility in title/responsibilities.- Excellent office location with easy public transportation access and lots of surrounding places for after-work entertainmentSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/26/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Located in San Francisco, we are a leader in Digital Print Solutions.We are looking for a Senior DevOps Engineer to join its IT Operations team. The ideal candidate will have significant experience in the implementation of scalable networks of heterogeneous systems and in working as a member of a small team. The ideal candidate will have demonstrated ability in automating systems administration tasks and authoring policies and procedures that support 24x7 operations. This position includes off hours, on-call responsibilities.The most important job requirement is the ability, experience, and desire to provide a computationally intensive service, non-stop. Your troubleshooting skills should be top-notch, and your communication skills should be strong. We'd like to see experience in at least a few key areas: performance analysis, rapid scalability, infrastructure/support systems and network engineering.Sound like a fit for your? Apply today!What You Will Be Doing•Rotating 24x7 on-call support•Configuration and management of Linux systems (physical and virtual) and networking devices•Automate everything in sight•Monitoring service stability and end to end performance tuning•Maintaining tools to aid in automation of alerting and deployment•Developing, implementing, deploying, and supporting advanced virtualization and data storage strategiesWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- Puppet/Ansible/or Chef- VMWare- TCP/IP- AWSWhat's In It for You-Competitive Compensation ( 100-130K )-Medical, Dental, and Vision insurance (PPO or HMO options)-401(k) retirement plan-Employer-paid life insurance, short-term and long-term disability-Flexible Spending Accounts for medical, dependent care, and transportation expenses-10 paid holidays-15 days paid time off per year (with tenure-based increases after two years)-An extra day off for your birthday-Free lunch on Wednesdays-300$ credit towards our services per yearSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/27/2016
+                    
+
+Our product is the world’s first WiFi system. A set of three of our smart routers cover the typical home. They work in unison to deliver hyper-fast, super-stable WiFi to every nook of every room. Stream video or email friends from anywhere in your home. And from your backyard, too.WiFi is the new electricity. Outside the smartphone, it’s the technology we depend on the most. The foundation for the modern home. It makes our favorite experiences come to life: Netflix, Spotify, FaceTime when Dad’s away.But at best, WiFi is like death by a thousand cuts: dead zones, painful setup, embarrassing passwords, equipment that you have to hide in the closet. At worst, it’s complete failure. Usually, just as you’re trying to fire up the Sonos for your dinner party or to send that mission-critical work email.We are fixing all of that. It’s not easy, which is why we’ve built a world-class team. We all believe deeply in what we’re doing, and enjoy doing it together. We’re looking for those of you who want to jump into the deep end of the pool with us.Top Reasons to Work with Us1. Flat org structure2. Competitive salary and benefits3. Laid back working environmentWhat You Will Be Doing- Develop automation and processes to enable teams to deploy, manage, configure, scale and monitor their applications in data centers and in cloud- Actively participate in high level team activities such as suggesting architecture improvements, recommending process improvements and conducting tool evaluations- Help solve business needs with technology by evaluating different technology options and vendor products- System troubleshooting and problem solving across platform and application domains - will be expected to participate in on-call escalations to troubleshoot customer facing issues- Takes ownership of end-to-end solutions provided by teams across the organizationWhat You Need for this Position- BS in Computer Science (or equivalent) and 3+ years of solid experience as DevOps Engineer in 24x7 uptime environment- Solid understanding of Software Development Life Cycle, Test Driven Development, Continuous Integration and Continuous Delivery- Solid understanding and experience working with high availability, high performance, multi-data center systems and hybrid cloud environments.- Comfortable with Agile methodologies and working closely within small teams- Extensive knowledge of Windows based systems including hardware, software and .NET applications- Strong ability to troubleshoot complex issues ranging from system resources to application stack traces- Experience with version control systems such as Perforce and Git- Experience in development with PowerShell or other scripting languages- Experience with AWS technologiesWhat's In It for You- Great salary- Health/Dental/Vision- Generous amount of PTO- 401(k)- Legendary company events- Flexible hoursReady, set, APPLY!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 01/27/2016
+                    
+
+Located in Santa Monica, we are a well-known value-added reseller of IT solutions and services. In business for over 10 years', we provide our customers with the experience and expertise to find the correct solutions for their IT Infrastructure. Due to continued success, we're looking to hire a talented DevOps Engineer.  If you are a DevOps Engineer and would like to hear more, please read on!What You Will Be Doing-Maintaining and improving our software infrastructure to scale our distributed analytics and processingWhat You Need for this PositionAt Least 5 Years of experience and knowledge of:- DevOps- Linux- VMWare- Systems Engineering- Scripting skills- Puppet/Chef- Python or JavaSo, if you are a DevOps Engineer and interested in hearing more, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/05/2016
+                    
+
+Silicon Valley based, blue chip funded start up is seeking a DevOps Lead to head a team of half a dozen talented engineers.  In this Manager level role you will be responsible for keeping services up and running for millions of unique users worldwide. The DevOps Lead will be tasked with assessing when the network will face challenges and with finding solutions to meet those challenges.  This role requires a strong proficiency with building large, scalable environments.  Are you up to the challenge of helping us improve stability and reliability of our products?  If so, please read on...Baseline Requirements:•4+ years of Lead or Mgt level experience for a DevOps team•Experience running web applications and services on Linux servers•Experience managing application dependencies, across cross-functional teams in a hybrid platform that involves commercial as well as custom software•Experience with configuration management systems and concepts (Puppet, Chef, etc)•Hands-on working knowledge, with large-scale, highly-availability heterogeneous infrastructure•Hands-on working experience with implementing configuration, build, deployment and release management strategies•Strong knowledge of bash and scripting languages like Python and with Saltstack•B.S in Computer Science or similarIdeal Additional Qualifications:•Practical experience with developing and supporting web proxies•Practical experience with intrusion detection / prevention: Snort, etc.•Prior or current involvement in open-source projects•Peer-to-Peer technology development experienceWhat you'll be doing:•Lead the DevOps team of 5-6 engineers•Assess the existing ecosystem, provide visibility, understand pain areas, constraints, prioritize and lead changes to structures, mindsets, roles, processes and the tool chain in support of arising business needs•Augment, elevate, empower and transform the operations team•Architect test infrastructure for scale, simplicity, resilience and agility•Build a larger team to support our products up-time of 99.999%•Manage a large production environment with a team of Server Engineers, Mobile Engineers, Client Engineers and Web Developers and IT•Develop solid relationships with infrastructure, support, QA, and development teams and the relationships to improve system stability and availability•Monitor the infrastructure and proactively scale as necessary•On-call rotation to support operational issues•Mentor the adoption of self-service deployments, in a distributed agile delivery team•Evaluate and implement a continuous delivery framework for on-demand self-service of environment provisioning, including data center infrastructure, application build, deployment and configuration that result in self-service, push-button, reliable & repeatable deployments•Review / automate analytics data for changes in server behavior and user retentionWhat's in it for you:>Highly competitive salary>Excellent employee stock option plan>Relocation assistance available>Free food and drinks>FREE Medical, Dental and Vision + 401KSo, if you are interesting in a challenging, hands on, management position with a quickly scaling start up - please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/05/2016
+                    
+
+DevOps EngineerUp to $115kLocation: Vancouver, BC (Gastown)Job Summary: We are looking for an experienced DevOps Engineer to help drive the evolution of our cloud-based platform. Our ideal candidate is a curious, pragmatic self-starter who excels at learning, planning, teaching, and executing in a fast-paced environment. You derive a deep satisfaction from developing elegant and robust automated systems that free human beings from the tyranny of manual grunt work.Join our dynamic team and make things better every day in an atmosphere that encourages innovation and personal growth. Along the way, you’ll work with seriously smart people, and ensure the timely delivery of products which solve problems for teams like yours.Top Reasons to Work with Us1.  Bleeding-Edge Technology2. Award-Wining Company that's quickly Disrupting their Market Space3. Exception Leadership that's backed by some of the biggest VC firms aroundWhat You Will Be Doing- Work closely with engineers to rapidly evolve our build pipelines and cloud-hosted products- Build, document, and maintain deployment and monitoring systems- Design, implement, and maintain capacity testing systems- Participate in weekly on-call rotation for production systems supportWhat You Need for this PositionExperience with most of the following:- Computer Science degree or equivalent experience- 3+ years in an operations-related role- Familiarity with distributed systems principles- Strong familiarity with cloud-based operations best practices- Amazon Web Services - Linux environments- Jenkins or something related- Experience with configuration management tools (e.g. Chef)- Experience with infrastructure management/orchestration tooling (e.g. CloudFormation, Terraform, Rundeck, Asgard)- Experience with a variety of monitoring tools and platforms (e.g. Graphite, collectd, Nagios/Icinga, ELK stack, CloudWatch, Splunk)- Experience with virtualized and containerized environments (e.g. vSphere, Docker)- Experience with bash, Python, or related - Git for source control- Familiarity with switching, routing, and firewallsBonus points:- Experience with Java development/tooling- Experience with service discovery (e.g. Consul, SmartStack)- Experience with IDS or SIEM systems- You understand the heart of DevOps is empathy- You once instrumented a household appliance with statsdWhat's In It for You- Laid-back team atmosphere- Weekly team lunch- MacBook Pros. - Free snacks- Fun culture with smart teammates building great products- Flexible work arrangements- Stock options and a solid benefit planSound interesting? Apply today!!! Or simply send your resume to: Lauren@Cybercoders.com
+
+
+Job Details
+
+
+Posted 02/05/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Top Reasons to Work with Us~ Ground-floor opportunity with a company that is already profitable and well-funded.  You'll make serious contributions which will be rewarded handsomely!~Awesome work environment, highly-talented team, fridge stocked with food and beer, keg partnership with local brewers, ping pong on-site and at our local ping pong club....the culture couldn't be better!~We are a fast-moving/growing company, are open to new technologies, and want your contributions to mean something great for you and for our team.  You'll love it here!What You Will Be Doing-Automating development and deployment processes-Capturing - managing - centralizing logs from various servers-Automate monitoring systems connected to our client deploys-Develop and manage automation code to improve our software development practice and the health of our deployments-Design automation from the ground up!What You Need for this PositionOur stack is entirely Python based.  Relevant technologies for the right candidate include, but are not limited to (and not necessarily required if you have other relevant experience):- DevOps experience- Automation- Python- Jenkins- Ansible- Docker- ElasticSearch / Logstash / Kibana (ELK)- Unix environment- Flask / SQLAlchemy / Celery- RDBMS / PostgreSQL- Amazon EC2 / S3 APIWhat's In It for YouCompetitive salary and the best work environment in the industry!  Your opinions will be trusted and valued, and you'll be making massive contributions alongside a dedicated team...you'll love working with us!So, if you are a DevOps Engineer with experience, please apply today!  Or simply email me your resume at: Richard.Marion@cybercoders.com**Please note that the below  note about U.S. work authorization does not apply for this Toronto position!**
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+We're a fast-paced, growing, and a downright cool E-Commerce Company with tons of upside. We keep growing... and growing... and growing; hence, the need for someone like you. We're currently looking to hire a full-time DevOps Engineer to join our team. We are willing to offer excellent compensation packages including a total compensation plan between $100K-$175K, Benefits, Bonus, etcWhat You Need for this Position•3 years or more working in a DevOps or IT Infrastructure department.•Bachelor’s Degree with coursework in computer science, databases, and infrastructure.•Excellent trouble-shooting abilities and communication skills•100% Customer satisfaction orientation. Will go the extra-mile with an aim for excellence in execution.•Experienced with Amazon Web Services.•Excited about Docker and 12-factor app hosting.•Experienced in the realities of the eCommerce Industry.•Knowledge of project management using agile methodologies, mainly SCRUM.•Knowledge of Networks and Security technical layers.•Experience in start-ups in a hyper-growth environments •Talented as a sales person to conduct changes and enforce good practices within teams. •Good communicator, able to convince and obtain buy-in from customers and collaborators.•Demonstrated ability to thrive in a fast-paced, iterative, deadline-driven environment.What You Will Be Doing•Be part of a team of collaborators focusing on internal and external client satisfaction, efficiency and flawless execution in the OLA’s and SLA’s we have with other internal teams. The position involves the handling of the eventual growth of the team when workload and timing will justify such growth.•Work closely with the leaders of the technology plan and build teams to address their requirements and express feedback on how to optimize maintenance, servicing and capacity planning of the operated products and technologies.•As a member of the DevOps team, develop and/or adopt management, monitoring and troubleshooting tools making IT operations failsafe and reliable. •Gather, challenge, clarify and document technical requirements coming from technology leadership. Define and design solutions and/or features that address those requirements to the complete satisfaction of an aligned senior management team.•Engage in quarterly road mapping exercises with technology leadership to identify enterprise’s strategic goals as well as the underlying business problems, challenges and opportunities and come out of this exercise with a precise roadmap of projects and actions to engage. Update technology leadership on the progress on this roadmap on a monthly basis.•Coordinate and manage the rollout of new builds and product updates including all the associated change management through a supervised continuous integration process.•Communicate on relevant performance metrics to highlight success or failure of key initiatives. Hold the Build team accountable for the quality of their work and stability of their feature sets. Work closely with them in the change management phase.•Set up monitoring and follow business and technology metrics relevant to each product and identify problems or potential optimizations. Offer clear short and mid-term visibility on the technical evolution of these products.•Manage the security policy of the enterprise for its cloud-based production infrastructure evaluate risks and identify threats. Propose the right action plans to minimize that risk and fix critical situations.•Manage implementation of infrastructure improvements to reduce cost, improve efficiency, reliability and speed of all company’s processes.•Participate in on-call rotationSo, if you are a DevOps Engineer with over 3 years of AWS experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+With offices globally, we are an innovator in the competitive big data analytics space. Our mission is to build the first end-to-end cloud service for the entire data pipeline of collection, storage and analysis.Since we launched in 2012, thousands use the free version, and our 120+ corporate customers include Pebble, Equifax, MobFox, Getjar, GREE, Pioneer and several Global Fortune 500 companies. We are backed by top VCs like Sierra Ventures and Scale Venture Partners.Due to tremendous growth we're looking for a Sr. DevOps Engineer to join our team. If you have a strong background managing cloud servers using automation tools, let's talk!Top Reasons to Work with UsYou can expect a work environment where the team is collaborative and open to your ideas, while we keep our collective eye on supporting our customers’ needs.  Our team is committed to technical innovation in our product and in the world through customer collaboration, open-source projects, and by continuing to make our product an integral part of our customers’ growth and success.  We’re committed to our employees having a big stake in the company as we grow it towards our shared goals.  We’re uncompromising in hiring top talent for every function, offering competitive salaries, benefits and stock options, as well as a casual, comfortable work environment, with a free lunch, every day...all steps away from Caltrain!What You Will Be Doing-Managing PostgreSQL/MySQL databases and traditional k-v stores and clusters-Managing 100+ cloud servers using automation tools-Investigating system errors and problems-Performing bottleneck analysis of the system for scaling-Seting up monitoring systems and application metrics as well as supervise them for prediction/detection of failuresWhat You Need for this PositionMore Than 5 Years of experience and knowledge of:- PostgreSQL- MySQL- Chef/Puppet/Ansible- Ruby Scripting- Python ScriptingPluses-Search engines (ElasticSearch, Solr, ...)-Key-value stores and caching (Cassandra, Redis, Memcached, ...)-Kafka and other messaging systems (RabbitMQ, MQTT, AMPQ, …)What's In It for You-Generous comp package (base + stock)-Full benefits-Flexible work hours-Laid back casual environment-Free food!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Are you ready to work with some of the brightest minds in machine learning, web scale systems, big data, security, elastic cloud and front end design? Are you ready to tackle the challenging security problems that companies face as they rapidly adopt cloud services? Are you ready to have some fun?Top Reasons to Work with UsWe provide a unique setting to be creative, build compelling products, work hard and have fun. Take advantage of employee discounts at many of the nearby shops, restaurants and fitness center.What You Will Be DoingWe are looking for a highly motivated DevOps/SRE to join our startup. You will be an experienced  cloud software engineer who is ready to design, automate and support our cloud infrastructure framework.  You will also have experience with build management and would support development engineering on multiple environments.What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Python- Linux- Splunk- monitoring tools ( Zabbix, Graphite,etc.)- Automation - Puppet/Chef/Salt/Ansible- NoSQL (Cassandra/Couchbase/MongoDBSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based in Boston and founded in 2012, we are a computer software startup that is powering the top e-commerce sites around the world. We are a team of 50 dedicated and talented professionals seeking an experienced DevOps Engineer. We have an entrepreneurial state of mind with generous benefits, unlimited PTO, all the tools necessary, and flexible scheduling. We are a rapidly growing team and this is the best time to join us!Top Reasons to Work with Us1. Work with the newest technologies!2. Flexible scheduling3. Unlimited PTO!What You Need for this PositionMore Than 5 Years of experience and knowledge of:- Linux- AWS- Puppet/Chef- PythonWhat's In It for You- Competitive salary (120K-175K)- Unlimited PTO- Flexible scheduling- All the tools needed to work your best- Tons of room for growth!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Are a DevOps Engineer with experience in hands on development as well as Operating large-scale software systems?  Are you looking for the best opportunity of your career, to be part of one of the fastest growing startups, get a piece of the pie, and make a name for yourself, while having fun at work?   If so, please read on!We are one of the fastest growing startups in the ad space recently ranked top 10 most promising companies, one of the best places to work, with offices across the world, experiencing more than 7,000 % growth.  All our engineers say that this is the best place they've ever worked, you will too.  We are looking for engineers who have made a significant contribution to a product or a team in the past and have a can do attitude.  We are looking to hire multiple generalists in multiple locations.  So, if you are a DevOps engineer with experience, please keep reading :-)We are looking for excellent software engineers who enjoy operating large-scale software systems. You enjoy learning new technologies and figuring out efficient ways of operating and maintaining those technologies. You want to design and operate software that scales to one million transactions per second on a huge, global scale.*** We are hiring in SF, San Jose, Los Angeles, Ventura, NY and CO, and we offer relocation :-) ***Top Reasons to Work with Us1. Industry leading & game changing startup2. 7,000 % growth and increasing3. Awesome culture & ownership of product developmentWhat You Will Be Doing- Designing and building applications to aid in system and deployment administration- Troubleshooting, investigating and fixing production issues in a cloud environment, including both hardware and internal software issues.- Investigating and fixing performance issues in a variety of applications and languages- Designing and building features to improve system and personnel scalabilityWhat You Need for this Position- Bachelor's degree or higher in Engineering or equivalent- 3+ years of software development experience and/or Windows Server administration including custom event logs, performance monitoring, windows services, and IIS- Experience with powershell, T-SQL, and C#/.NetExperience using Windows administration tools on Windows Server platforms (event logs, performance monitoring, windows services and IIS specifically)- Experience administering software and server deployments in a cloud environment- Experience with agile methodologies and a rapid development cycle- Big plus if you’ve worked with Amazon AWS or other cloud based platforms- Big plus if you have experience administering Linux server- AdTech experience (a plus)- DSP experience (a plus)What's In It for YouA lot...-  Solid competitive Base- Full benefits for the family- Bonuses- Equity- 401k matched to 6%- Great PTO- Company outings & vacations- Awesome & fun company culture- Product ownership- Aggressive career growth opportunities- Much more....So, if you are a DevOps Engineer with relevant experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Our company, located in Burlingame CA, is one of the fastest growing startups in California! Our ground breaking technology is one of a kind, and has gained our company fame through various media channels! With over 100k registered users, our technology is both improving healthcare and saving lives. Working with us will give you the opportunity to do something great with your knowledge, and help society as a whole!If you are a DevOps Engineerwith experience, please read on!What You Will Be DoingRight now we are looking for a talented Android Developer to join our brilliant and collaborative team.Knowledge needed includes;•Linux/Unix•Ruby•Python•Nagios/ Salt/ Chef/ PuppetCertainly, you will also:•Solve problems methodically and with your team•Get stuff done•Want to work hard to achieve a huge upside•Breathe responsive design•Be nimble -- able to work on a variety of projects, platforms and languages•A.B.L: Always Be LearningSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Manager with experience, please read on!Based in a beautiful office in downtown San Francisco, we are a Pre-IPO award winning cloud-based security company that is fueled by a global sensor network of more than 70 million users and tens of thousands of apps that are added daily – giving us access to virtually all the mobile code in the world. With this scale and the predictive machine intelligence to analyze and make sense of the data, we are able to identify connections that would otherwise go unseen and stop cybercriminals from attacking mobile devices.We’re building the company that is securing the post-PC world, and that takes a deeper kind of teamwork.  We need serious problem solvers. Entrepreneurs. Hackers who care. People who play well together, are excited to build products that delight customers, and know how to have some fun while they’re at it. You’ll find a place that’s challenging, hands-on, transparent, and led with real passion.We are looking to bring in key hires to help push our company to the next level. If you are a DevOps Manager who has a passion for building and Leading a world-class team of engineer then please keep reading!Top Reasons to Work with UsCompetitive Base Salary +  Performance Bonus Pre IPO Stock PTO Free-Lunches and Meals Career/Title Growth Strong Company Culture (happy hours/game room)Strong Work/Life Balance Our office was voted on of the coolest places to work in 2015 : )What You Will Be Doing- Lead high performing technical team of 5-8 people- Ensure day to day work aligns with the long term strategic vision- Understand business needs, technical architectures, capacity plans, tooling, product launch schedules, and more to ensure team is resourced correctly- Prioritize and track product team requests. Ensure deliverables are on time and maintain a high standard of excellence- Maintain close partnerships with Product teams, Program Management, Infra, Security, NOC, and other related groups- Measure and report KPIs- Mentor and develop the talents of your team- Foster a highly collaborative environmentWhat You Need for this PositionThis is a hands-on frontline management role. If the situation requires, you’ll need to jump alongside your team and contribute technicallyMore Than 5 Years of experience and knowledge of:Able to code one or more: Java, Scala, Ruby, Python, or other OOP languageStrong understanding of DevOps, CI/CD, and Object Oriented Design principlesAble to configure and fine tune 3 or more of these common web technologies: Apache, Nginx, Tomcat,  Redis, MySQL, Cassandra, Storm, Kafka, or similarExcellent problem solving, troubleshooting, and analytical skillsStrong communication and written skillsWhat's In It for YouOutstanding competitive base salary, performance bonus, stock options, great company benefits, unlimited PTO, fun work environment and much much more!So, if you are a DevOps Manager with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Do you want to work for one of the fastest growing and buzz worthy companies in the Bay Area?!We are a fast growing, exciting high traffic Consumer Product Company located in San Francisco! We offer a fun and flexible environment with a great package and MAJOR EQUITY PLAY! This role will be crucial to our growth moving forward and we're looking for someone who loves solving problems and getting the job done! You will be our 1st DevOps hire so the possibilities for growth are ENDLESS!Top Reasons to Work with Us- Great salary + benefits + EQUITY- Use cutting edge technologies- Have project and technology ownership- Work in a challenging and rewarding environmentWhat You Will Be Doing- Lead the building and maintaining of Linux servers- Optimize production activity- Serving as a point of escalation for technical production issues- Writing server automation scripting- Aligning Engineering Development with realistic Infrastructure capabilitiesWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:-  Linux Engineering and Administration-  Python scripting-  Automation Scripting-  Building Servers-  Puppet, ChefWe are looking to hire ASAP and interviewing NOW so apply TODAY!
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!What You Will Be Doing- Build and improve platform services including web application hosting, databases, and networking- Automate the provisioning, configuration, scaling, and monitoring of our platform- Manage vendors and integrations used to deliver Ice.com services- Automate configurations and templates for various linux based services- Measure and maintain reliability through instrumentation and monitoring- Interface with multiple development teams to provide services and support- Promote knowledge sharing and DevOps culture across our entire engineering departmentNote: This role is 50% DevOps 50% DevelopmentWhat You Need for this Position- BS in Computer related field or equivalent experience- 3+ years of experience with Linux administration- Continuous Delivery, test automation, deploy automation- Application deployment on AWS- Hands on experience in AWS provisioning and good knowledge of AWS services - Relational and NoSQL databases- Experience running a large-scale web operation- Experience with configuration management tools (ansible, fabric, etc)- Strong Linux skills - Strong Python development/scripting experience- Hands-on knowledge of high-availability approaches such as load balancing, failover, clustering and disaster recovery- Familiarity with performance and security best practicesWhat's In It for YouCompetitive SalaryMedical, Dnetal, VisionPTOFree Lunch everyday!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with AWS experience, please read on!We are looking for a DevOps Engineer to join our rapidly scaling business, with opportunities to grow and define your career working with a talented and dynamic team.Successful candidate will be highly driven and self-motivated, possess strong technical, analytical and communication skills, be comfortable working both independently and in high performance team environments under tight deadlines.Top Reasons to Work with Us- Join a company that has the opportunity and resources to be at the forefront of the mobile marketing and data revolution.- We’re solving hard challenges at incredible scale – across all levels of the stack, from real-time decisioning algorithms to building fun, engaging mobile entertainment properties.- Be in an environment where innovation is encouraged and your voice is heard.What You Will Be Doing- Manage credentials and access to production and QA systems.- Manage notifications and alerts to engineering teams.- Work with engineering teams to provision and manage AWS instances and services (RDS, RedShift, EC2, etc.).- Respond to emergency outages and coordinate responses with engineering teams in multiple locations.- Write and maintain scripts for log rotation, etc.- Work with engineering teams to refine deployment process.What You Need for this Position- Bachelors Degree or equivalent experience- Extensive knowledge with UNIX, SSH, cron, and access control.- Experience with managed hosting and colocation.- Experience managing AWS technologies (EC2, RDS, etc.).- Familiarity with notification platforms like PagerDuty.- Strong problem solving and analytical skills.- Excellent verbal and written communication skills.- Ability to work in a team environment.- Ability to manage multiple tasks in a dynamic, fast-paced environment.- Must have a passion to learn new technologies.What's In It for You- Exciting work in a dynamic, vibrant company- Competitive pay & benefits package- High visibility and room for career growth- Collaborative, Creative Work EnvironmentIf you are looking for a work environment where innovative thinking is encouraged, initiative is rewarded, and opportunities for career growth are abundant, then this is the right place to turn your professional talents and goals into real results.So, if you are a DevOps Engineer with AWS experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+With Headquarters in Millbrae, CA we are a developer of a cloud-based energy solution.   We combine big data, predictive analytics and energy storage to reduce electric costs for businesses and in aggregate, deliver services to the grid.  If you are a DevOps Engineer with experience, please read on!What You Will Be DoingPrimary responsibilities will include management and operations of the messaging tier; creating autonomous monitoring and reporting mechanisms to improve operational effectiveness and transparency; collaborating with the development team to improve overall infrastructure; tuning the message tier and server infrastructure; managing cloud based services including virtualized servers, and provisioned storage volumes.What You Need for this PositionTechnical Skills:- Shell Scripting- Python/Erlang/Elixir- RabbitMQ- AWS/EC2- Linux (Ubuntu)So, if you are a DevOps Engineer with experience, please apply today!  Or you can send your resume to me directly (Word format please):Anthony.Alvarado@cybercoders.com
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+An established technology solutions firm with heavy software focus is in rapid growth mode and looking for talented DevOps Engineers with strong experience working in dynamic environments. This is an extremely collaborate environment where you will have the opportunity to grow quickly as the company continues to invest heavily in all of their technology initiatives. The current urgent need is for a DevOps Engineer with strong expertise with configuration and automation. If this sounds like you, please read on and you are encouraged to apply ASAP!What's In It for You- Competitive base salary- Some Travel Involved - Comprehensive benefits package (Health, Dental Vision)- Paid Vacation - Other Cool Perks!What You Will Be Doing- Architect, implement & maintain continuous delivery solutions - Implement Open-Source Projects- Administering servers, backup operations & systems monitoring - Working with our software team on our SaaS solution- Help streamline our operations and processes- Building and maintaining tools for deployment- Troubleshoot and resolve issues for our environment- Develop tools/scripts to improve efficiency of operational tasksWhat You Need for this PositionREQUIREMENTS:- DevOps- Linux/Unix Administration (Red Hat, CentOS, Ubuntu) - Automation/ configuration management - Puppet/ Chef/ Ansible/ Salt - Open source technologies and cloud services (AWS experience)- Linux shell scripting- VMware NICE TO HAVE SKILLS:- Java - Ruby- Jenkins or Docker- github, Hadoop or Cloudera- MongoDB-AWS certification preferred-Knowledge of best practices and IT operationsDevOps Engineers with strong Puppet or Chef experience are encouraged to apply ASAP or you can send your resume to me directly at Alex.Mraz@cybercoders.com
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+An established technology solutions firm with heavy software focus is in rapid growth mode and looking for talented DevOps Engineers with strong experience working in dynamic environments. This is an extremely collaborate environment where you will have the opportunity to grow quickly as the company continues to invest heavily in all of their technology initiatives. The current urgent need is for a DevOps Engineer with strong expertise with configuration and automation. If this sounds like you, please read on and you are encouraged to apply ASAP!What's In It for You- Competitive base salary- Some Travel Involved - Comprehensive benefits package (Health, Dental Vision)- Paid Vacation - Other Cool Perks!What You Will Be Doing- Architect, implement & maintain continuous delivery solutions - Implement Open-Source Projects- Administering servers, backup operations & systems monitoring - Working with our software team on our SaaS solution- Help streamline our operations and processes- Building and maintaining tools for deployment- Troubleshoot and resolve issues for our environment- Develop tools/scripts to improve efficiency of operational tasksWhat You Need for this PositionREQUIREMENTS:- DevOps- Linux/Unix Administration (Red Hat, CentOS, Ubuntu) - Automation/ configuration management - Puppet/ Chef/ Ansible/ Salt - Open source technologies and cloud services (AWS experience)- Linux shell scripting- VMware NICE TO HAVE SKILLS:- Java - Ruby- Jenkins or Docker- github, Hadoop or Cloudera- MongoDB- AWS certification preferred- Knowledge of best practices and IT operationsDevOps Engineers with strong Puppet or Chef experience are encouraged to apply ASAP or you can send your resume to me directly at Alex.Mraz@cybercoders.com
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Headquartered in Lawrence, KS we a non-profit organization that utilizes our technology to promote education worldwide. The solutions that we connect educators, parents, and learners through innovative and evolving research-based technology. As a part of our DevOps team you would directly work with our assessment technology in tasks such as data transferring, performance tuning, performance tuning, production support, and software release.We are currently looking to add a bright DevOps Engineer with strong experience with Linux, Tomcat, and CVS to our collaborative team!What You Will Be Doing• Coordinating software release activities beginning early in the Software Development Lifecycle• Maintaining legacy applications for relevant projects• Using automated configuration management and packaging tools to environment deployments and updates• Working with and improving enterprise tools for source control, automated testing, continuous integration, and release management.• Developing and maintain build and deployment scripts for both new and existing systems• Managing and improving release process with a specific focus on automation, efficiency, and scale• Building and maintain necessary tools during release cycles• Automating the configuration of monitoring and log aggregation systems• Verifying and enhancing the reliability and scalability of all system components.• Performing regular load testing• Troubleshooting operational aspects of complex systems• Coordinating and executing release activities• Supporting 24/7 operations of infrastructure • Responding to ad hoc requests for data, reports, information, etc. by clientsWhat You Need for this PositionRequired Skills• Bachelor of Science in CS or equivalent experience• 3+ years’ experience software engineering, release engineering, and/or configuration management• MySQL or PostgreSQL• CVS, SVN, or Git• Salt, Ansible, or Puppet• Tomcat or JBoss• Ant or Maven• Python and Bash• Unix/LinuxNice to Have• Perl, PHP, or Java• Experience with Agile/SCRUM development methodologies • Experience with a Continuous Integration Management System such as Hudson or Jenkins• Experience with software repositories such as Artifactory• Web Development experience with Java Script and SQL• Experience using HTML, XML, XSLT and other related technologies• Experience configuring monitoring tools like Nagios and responding to alerts• Experience with log aggregation tools such as Logstash or Graylog• Experience configuring monitoring tools like Nagios and responding to alertsWhat's In It for You1. Fun, Collaborative, and Casual Work Environment!2. Flexible Schedule!3. Amazing Benefits!4. Annual Bonuses!5. Potential for Growth!So, if you are a DevOps Engineer with strong experience with Linux, Tomcat, and CVS, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+An established technology solutions firm with heavy software focus is in rapid growth mode and looking for talented DevOps Engineers with strong experience working in dynamic environments. This is an extremely collaborate environment where you will have the opportunity to grow quickly as the company continues to invest heavily in all of their technology initiatives. The current urgent need is for a DevOps Engineer with strong expertise with configuration and automation. If this sounds like you, please read on and you are encouraged to apply ASAP!*Travel Involved & Remote opportunitiesWhat's In It for You- Competitive base salary- Travel Involved - Partial Remote - Comprehensive benefits package (Health, Dental Vision)- Paid Vacation - Other Cool Perks!What You Will Be Doing- Architect, implement & maintain continuous delivery solutions - Implement Open-Source Projects- Administering servers, backup operations & systems monitoring - Working with our software team on our SaaS solution- Help streamline our operations and processes- Building and maintaining tools for deployment- Troubleshoot and resolve issues for our environment- Develop tools/scripts to improve efficiency of operational tasksWhat You Need for this PositionREQUIREMENTS:- DevOps- Linux/Unix Administration (Red Hat, CentOS, Ubuntu) - Automation/ configuration management - Puppet/ Chef/ Ansible/ Salt - Open source technologies and cloud services (AWS experience)- Linux shell scripting- VMware NICE TO HAVE SKILLS:- Java - Ruby- Jenkins or Docker- github, Hadoop or Cloudera- MongoDB-AWS certification preferred-Knowledge of best practices and IT operationsDevOps Engineers with strong Puppet or Chef experience are encouraged to apply ASAP or you can send your resume to me directly at Alex.Mraz@cybercoders.com
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!Top Reasons to Work with Us1. Work with a progressive mobile marketing company2. Collaborate with specialized teams of engineers and developers3. Great benefits with a stock option planWhat You Will Be Doing-Developing and executing robust and efficient DevOps practices-Select proper environments, frameworks and tools to solve various challenges  within operations -Partner with leadership from other teams in order to implement best DevOps practices -Support of Operations- Tuning of clusters (Analytical databases, hadoop, and Ad Stacks)-Collaborate with teams of developers, architects, and operations management on support and deployment of mission critical systems (various queue bases systems- Ruby, Java, Hadoop based frameworks)What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Python- Hadoop- Java- Ruby- InfrastructureDesired experience:-Lynux scripting-Automation-VMWare/XenWhat's In It for You- Vacation/PTO- Medical- Dental- Vision- Bonus- 401(k)- Stock optionsSo, if you are a DevOps/Sysadmin/Release Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Based in Milwaukee, WI, we are an exciting advertisement technology company.  We specialize in developing web based advertisement tools used by companies all over the country.  We development cutting edge technology that helps our clients have optimal exposure in the today's market.  Also we provide a great work-life balance for our employees.  We want you to join our team!We are urgently looking for a DevOps Engineer to join us!!!What You Need for this PositionAt least 3 Years of experience and knowledge of: - ASP.NET   - C#- SQL Server- Visual Studio- JavaScript- HTMLWhat's In It for You- Competitive Salary  ($100-140K)- Full- Benefits- Other great perks!!!Are you a fit for this position?
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/04/2016
+                    
+
+Located in San Jose, CA we are a 10 year old organization building Amazing apps for Android, iOS, Windows mobile phones, and tablets.  People around the world use our apps billions of times a month and share them with others.  Currently we are looking for an Operations Engineer to help manage our infrastructure and maintain our availability for those users.What You Will Be Doing• Manage the availability of our infrastructure and services • Identify areas for additional investigation to improve availability and reliability • Script development and maintenance for operational tasks • Help maintain internal documentation • Installation and administration of applications and middle tier technology • Installation and maintenance of infrastructure including Linux servers, routers, switches, firewalls, and load balancers • Deploy new releases to production • Fault management and resolution • 24/7 rotating on-call dutyWhat You Need for this Position• 5+ years of Linux system administration experience a must • 2+ years of relevant work experience in a SaaS environment • 3+ years of Apache experience• 3+ years of MySQL experience• 2+ years of Cisco and other network equipment experience• Good understanding of TCP/IP and networking• Good Perl and Shell Scripting skillsWhat's In It for You- Up to 145k base plus aggressive total compensation package- Excellent work/life balance- Global brand recognitionSo, if you are an Operations Engineer with excellent Linux Server and networking skills, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/05/2016
+                    
+
+Are a DevOps Engineer with experience in hands on development as well as Operating large-scale software systems?  Are you looking for the best opportunity of your career, to be part of one of the fastest growing startups, get a piece of the pie, and make a name for yourself, while having fun at work?   If so, please read on!We are one of the fastest growing startups in the ad space recently ranked top 10 most promising companies, one of the best places to work, with offices across the world, experiencing more than 7,000 % growth.  All our engineers say that this is the best place they've ever worked, you will too.  We are looking for engineers who have made a significant contribution to a product or a team in the past and have a can do attitude.  We are looking to hire multiple generalists in multiple locations.  So, if you are a DevOps engineer with experience, please keep reading :-)We are looking for excellent software engineers who enjoy operating large-scale software systems. You enjoy learning new technologies and figuring out efficient ways of operating and maintaining those technologies. You want to design and operate software that scales to one million transactions per second on a huge, global scale.*** We are hiring in SF, San Jose, Los Angeles, Ventura, NY and CO, and we offer relocation :-) ***Top Reasons to Work with Us1. Industry leading & game changing startup2. 7,000 % growth and increasing3. Awesome culture & ownership of product developmentWhat You Will Be Doing- Designing and building applications to aid in system and deployment administration- Troubleshooting, investigating and fixing production issues in a cloud environment, including both hardware and internal software issues.- Investigating and fixing performance issues in a variety of applications and languages- Designing and building features to improve system and personnel scalabilityWhat You Need for this Position- Bachelor's degree or higher in Engineering or equivalent- 3+ years of software development experience and/or Windows Server administration including custom event logs, performance monitoring, windows services, and IIS- Experience with powershell, T-SQL, and C#/.NetExperience using Windows administration tools on Windows Server platforms (event logs, performance monitoring, windows services and IIS specifically)- Experience administering software and server deployments in a cloud environment- Experience with agile methodologies and a rapid development cycle- Big plus if you’ve worked with Amazon AWS or other cloud based platforms- Big plus if you have experience administering Linux server- AdTech experience (a plus)- DSP experience (a plus)What's In It for YouA lot...-  Solid competitive Base- Full benefits for the family- Bonuses- Equity- 401k matched to 6%- Great PTO- Company outings & vacations- Awesome & fun company culture- Product ownership- Aggressive career growth opportunities- Much more....So, if you are a DevOps Engineer with relevant experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted 02/05/2016
+                    
+
+If you are a DevOps Engineer with experience, please read on!One of the largest most well know business credit agencies in the world is currently seeking a DevOps engineer to join their team in Malibu, CA. As a DevOps Engineer you will build out their cloud-based infrastructure, maintaining the current environment. This Engineer must have a good grasp of continuous Integration and also configuration management tools as well as an understanding of cloud infrastructure.What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux- DevOps- Automation - Puppet/Chef/Salt/Ansible- AWS (EC2 / EBS / S3 / VPC / RDS / IAM / Route 53) OR Rackspace- SVN/ Git/ TFS- Jenkins/Bamboo/Maven- Ruby / Bash / Powershell / Python / Perl / ShellSo, if you are a DevOps Engineer with experience, please apply today or send me your resume at jason.shotwell@cybercoders.com!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with 3+ years' professional experience, please read on!We are a well-funded PA based IoT Start-up who are innovating services for consumers in their homes. We launched 5 years ago and have experienced consistent growth in company size, revenue and on-net customers since our inception. Our technology integrates with Home products across a variety of industries, allowing retailers to deliver smart, seamless consumer based services on a massive scale.Top Reasons to Work with Us1.) We are a Series B Start-up in the IoT space - innovating products for consumers and enhancing every-day living.2.) There is no where but up in terms of career advancement, technological growth and responsibility. 3.) We offer top-market salaries complete with comprehensive health benefits, bonuses, stock and much more.What You Will Be DoingYou will play a key role in the build out, maintenance and automation of our cloud based services which connect to a multitude of mobile platforms and connected devices. Also, you will be responsible for the build environment and software delivery systems.What You Need for this PositionProfessional experience and knowledge of:- Linux- Python- AWS- Docker/Puppet- Zabbix/Splunk- Jenkins/ArtifactoryBonus:- Experience with networking- CloudFormation - Consul- Build/Release engineeringSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Do you want to work for one of the most successful tech start-ups in Santa Monica? If so, read on...
+
+Widely known as a staple in the LA / Santa Monica start-up scene, we are a well funded technology company experiencing a tremendous amount of growth.  We power hundreds of company's websites for their purchasing programs.  We have a great product you can truly stand behind. Currently, we are looking to add an exceptional DevOps Engineer to our fast-paced and productive engineering team.Top Reasons to Work with Us- Beautiful Santa Monica location
+- Cutting edge technology environment
+- Great work environment + flexible work hours
+- LEAD DEVOPSWhat You Will Be Doing- Design, build and operate systems that enhance and optimize software development
+- Build tools to abstract the complexities of our software stack, security and infrastructure
+- Build continuous deployment and continuous integration systems to enable rapid development cyclesWhat's In It for You- Competitive Compensation Package (120-160k)
+- 100% paid benefits (spouse and kids included)
+- 27 days of PTO!
+- 401k
+- Equity
+- Paid Gym membership
+- and MUCH MUCH MORE!What You Need for this Position- 3+  years of experience with Linux/UNIX system administration including configuration, troubleshooting, and automation 
+- Experience with Nginx & Puppet 
+- Experience with Git
+- Advanced experience with Bash, Shell, Python, Ruby or Perl scripting
+- Experience with monitoring applications such as Nagios & Ganglia
+- Experience in a high-volume or critical production environment with responsibility for at least 50 Linux/UNIX servers in production setting
+- BA/BS in Computer Science preferredSo, if you are a Superstar DevOps Engineer with Linux, Puppet, Automation and advanced scripting experience, apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with 3+ years of Windows experience, please read on!Top Reasons to Work with Us- Rated one of the top 50 fastest growing tech firms in DC by the Washington Business Journal- Excellent corporate culture (Jeans to work every day)- Opportunity for upward growth within the company- 401K with company match!- Tuition ReimbursementWhat You Need for this Position- Experience with Windows and Azure is a plus- Excellent written and oral communication skills- Extensive experience as a DevOps EngineerWhat's In It for You- 110K+ Base salary- Excellent health, dental, and vision benefits- Join one of the top 50 growing tech firms in DC- Casual work environment (Jeans to work every day)- 3 Weeks PTO- Retreats to warm places with Beaches- Company Softball teamWhat You Will Be Doing-Extensive Dev/ops Work in a Windows environment-Utilizing Windows Azure- Collaborating with a mid sized IT team on complex projects and solutionsIf you are a DevOps Engineer with 3+ years of Windows experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with experience in a cloud hosting environment, please read on!We are a worldwide leader in multi-screen video applications for pay TV operators and media companies.  Join us now to help deliver interesting and complex multi-screen video applications in a high growth environment, where you will work with an international cross-disciplinary team of software architects, UI architects, developers, and project managers. The software solutions have been developed for the television industry, including web, mobile, set top boxes, games consoles and connected TVs.Top Reasons to Work with Us1. You will join an international company in a close-knit engineering team that builds applications and solutions which are HIGHLY visible by definition (for anyone who watches TV).2. We are big on work/life balance and reward those in our engineering teams who put in the extra work to keep us going.3. In less than 10 years of being in business, we are a self sustaining, revenue generating company that offers work flexibility, bonuses, stock, comprehensive benefits AND more!What You Will Be DoingYou will maintain the high availability of our hosted solutions to our clients by troubleshooting, configuring and automating our environment with open source monitoring tools. In addition, you will be responsible for the administration of wide area network, including data centers, cloud solutions, and customer premises hardware; local area network; and lab, including standard networking technologies and proprietary TV middleware software.Our environment consists of: Linux (Apache)/Windows, AWS, MySQL, MS Server 2008, TCP/IP Networking (DHCP, DNS), Minerva, etc.What You Need for this Position- 4 year Bachelor's Degree in Computer Science preferred- Systems Administration or DevOps experience (Linux, Apache & CentOS)- Strong networking experience (TCP/IP, DHCP, DNS)- Solid server-side scripting experience (PowerShell, PHP, Bash, etc.)- Understanding of Cloud Computing and Amazon Web Services (S3, EC2, EBS, Elastic Load Balancing etc.) is a PLUS- Experience with configuration management: Puppet/Chef/Nagios is a PLUS- Some Microsoft Stack experience (Microsoft Server 2008, IIS Webservers) is a PLUS- Experience with Minerva is a PLUSWhat's In It for YouFor your hard work, we will compensate you handsomely with:- competitive base- bonuses- 401K- stock- benefits- flexible work hours- travel opportunities- other perks: apply to find out!So, if you are a DevOps Engineer, Linux Admin or Site Reliability Engineer with prior experience in a hosted cloud environment, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Based in historical Cambridge, MA, we are a leader in our growing industry and we're looking to disrupt this space . Due to explosive growth, we have an urgent need for a DevOps engineer to join our team. This engineer should have a strong IT background including Linux (administration), Linux commands, and scripting. You should have a strong passion for implementing build configuration tools, such as Jenkins, Git, SVN, Ant, Chef and Puppet. As our team grows, we're looking for development operations engineers who like to wear multiple hats and are always looking to expand our skill-set. If this sounds like you, then please read on!Top Reasons to Work with Us1. We're one of the fastest growing and most promising companies in the Boston area
+2. Brand new, state of the art office
+3. Ability to work with some of the smartest engineers in the city who are all working together to create an industry leaderWhat You Will Be Doing- Architect and document our systems as they grow
+- Keep our Chef scripts clean and efficient
+- Assist with automation efforts around builds, deployment, and automatic scaling
+- Manage our big data Cassandra/Spark clusters
+- Experience with system automation, scripting and deployment tools: Chef, Puppet
+- Support development efforts by providing resources from test to productionWhat You Need for this Position- 2+ years of experience managing production Linux servers
+- Experience with managing production environments on AWS or another cloud PaaS 
+- Exceptional knowledge of AWS, including EC2, ELB, VPC, IAM, S3
+- Experience with tools like Chef (preferred) or Puppet
+- Experience managing MySQL or PostgreSQL servers
+- Knowledge of web application servers such as unicorn, nginx, etc.
+- Programming skills in Ruby, Python, or similar languages
+- Experience with monitoring solutions and services
+- Always watching for and learning about new tools and technologiesWhat's In It for YouFor your hard work, you will be rewarded with an offer that will include an strong base salary, Bonus, Stock Options, a comprehensive benefits package, 401k, a great and fun working environment, and other cool perks!So, if you are a DevOps Engineer with the experience listed above and a PASSION for start-ups then please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+We're a rapidly growing, pre-IPO startup that just raised $15 million in tier-1 VC funding and we're growing due to the high demand for our innovative products that increase customer satisfaction minus expensive infrastructure that goes along with that. We combine IT, technology, human capital to make for a one-stop shop for enterprises of all sizes to drive revenue, interface with clients & integrate easily with all major CRM's & Customer support applications (i.e. Salesforce, SugarCRM, Zendesk, Help Scout, etc.). We are already number 1 in a constantly growing market & the future is looking incredibly bright!If you are a razor sharp Devops or Linux Engineer with strong High-Volume / high-availability and strong Unix Scripting and automation experience in a production environment, please read on!What's In It for You- Make a difference by developing core software products driving & supporting the new global economy!- Earn great pay, pre-IPO bonus, health benefits, other perks, PTO, etc.- Work for a company with a real chance to go IPO (We just raised $16 million 2 months ago) while working directly on SaaS development for some of the best companies around- Work with a very bright team of engineers with high-impact and real room for growth- Join the company that you will want to grow with for years to come!What You Need for this Position•  3+ years (min) experience within a Linux environment, as a DevOps  Linux engineer, troubleshooting & installing web-based applications in a production environment• Strong hands on experience with Ruby or similar scripting language• Strong experience with Chef, Puppet configuration management tools• Hands on cloud services experience, ideally with AWS• Version Control experience, i.e. Git• Writing UNIX Scripts (Perl, Python, Shell, etc.) for automation is a must• Production environment DevOps/ tech support experience, specifically servicing enterprise customers is huge• High-volume, high-availability web based application experience• Background with different internet apps, protocols (i.e. HTTP) & technologies and their support systems• Some experience with Travis, Jenkins (CD / CI) is a big plus• Some experience with Clojure / Golang is hugeWhat You Will Be Doing• DevOps and Linux engineering in a agile, production environment• Driving production-level infrastructure development, automating manual tasks• Developing tooling, services for reporting & monitoring• Creating tools, processes for automation & verification of app deployment• Troubleshooting & fixing service issues• Thinking creatively about how to proactively address customer concerns & preventing issues from spiraling• Working closely with engineers, developing new platform features to make supporting our customers easier / efficientSo, if you are a razor sharp Devops or Linux Engineer with strong High-Volume / High-Availability experience please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with experience, please read on!Top Reasons to Work with Us1. Awesome company culture!2. Career growth3. Cutting edge of on-line retail technologyWhat You Will Be DoingYou will be responsible for working with software engineering to deploy and operate our systems. In this role, you will help automate and streamline our operations and processes, build and maintain tools for deployment, and troubleshoot and resolve issues across non-production environments.What You Need for this PositionAt Least 1 Year of experience and knowledge of:- Linux- MySQL- Java- DevOps-Cloud environmentsWhat's In It for You- Vacation/PTO- Medical- Dental- Vision- 401(k)So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are an experienced DevOps Engineer with Chef Experience please read on!We are  the Ad-Tech arm of a large media conglomerate looking for a DevOps Engineer for our NYC office!  We are revolutionizing online marketing engagement for top brands around the world. Our goal is to establish deeper connections with online consumers using a stronger and more direct approach. We reach billions of eyes across the globe in an array of hot industries, from music and video to social gaming and sports. We are building a next-generation Ad platform and integrating brands into mobile-first content in the process. If you want to join a top tech team and work with some of the latest and greatest technologies then this opportunity is for you!Top Reasons to Work with Us- Exciting culture (We are firm believers in work/life balance)- Work with a top notch tech team using new technologies!What You Will Be Doing- Designing and performing system, database and configuration management- Coordinate tests of new software and systems- Plan and define requirements for off-hour systems maintenance work.- Define and implement security controls and capabilities in operating systems- Install and configure Linux systems- Interface with users and developers in order to resolve technical issuesWhat You Need for this Position- 3+ years of DevOps experience- Chef experience (with Ruby is a plus)- AWS experience- Large scale infrastructure experience- We are interested in using Docker (we aren't currently using it but if you have experience that is a plus!)What's In It for You- Competitive Compensation- Full Benefits- Work with an A+ tech team!So, if you are a DevOps Engineer with experience, please apply today!
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Located in San Jose, CA we are a 10 year old organization building Amazing apps for Android, iOS, Windows mobile phones, and tablets.  People around the world use our apps billions of times a month and share them with others.  Currently we are looking for an Operations Engineer to help manage our infrastructure and maintain our availability for those users.What You Will Be Doing• Manage the availability of our infrastructure and services • Identify areas for additional investigation to improve availability and reliability • Script development and maintenance for operational tasks • Help maintain internal documentation • Installation and administration of applications and middle tier technology • Installation and maintenance of infrastructure including Linux servers, routers, switches, firewalls, and load balancers • Deploy new releases to production • Fault management and resolution • 24/7 rotating on-call dutyWhat You Need for this Position• 5+ years of Linux system administration experience and 3+ in a DevOps environment • 2+ years of relevant work experience in a SaaS environment • 3+ years of Apache experience• 3+ years of MySQL experience• 2+ years of Cisco and other network equipment experience• Good understanding of TCP/IP and networking• Good Perl and Shell Scripting skillsWhat's In It for You- Up to 145k base plus aggressive total compensation package- Excellent work/life balance- Global brand recognitionSo, if you are an DevOps Engineer with excellent Linux Server and networking skills, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Do you have solid Linux Administration experience and looking to make a break into a Devops type role? If so, this might be the job for you. Title: Linux Systems AdministratorLocation: O'Fallon, MO Job Summary: Implementation and support of production hosting environments for all projects. Tasked with the implementation and maintenance of  development services. Designing and building robust, flexible, scalable backend systems.Top Reasons to Work with Us- Amazing mentorship- Learn from the best!- Work for a well-known company who's product is used by billions across the world- Cutting Edge Technologies- Work on large scalable enterprise applications- Large room for advancement within the companyWhat You Will Be Doing- Implement a cloud-based hosting solution.- Help to define the design, implementation and support of infrastructure & operational aspects. This includes: cloud-based hosting, traditional on-premise hosting environments, development infrastructure (Linux, Apache, LDAP, JBoss, Tomcat, MySQL, Oracle, Postgres, Git and others).- Evaluate different technologies & determine strengths and weaknesses of technology architecture, implementation and suitability.- Support our 24 x7 Production cloud environment.What You Need for this Position- Computer Science Degree or related.- Linux System Administration- Networking background ideally with Load Balancers-  Scripting Skills: Bash, Perl, Python, Ruby, or PHPPluses:- Experience deploying applications to the cloud- Understanding of MOST of the following: Virtualization, High Availability, Dabase Scaling & Failover, Upgrades/Patching, Backups- Experience working with a cloud management & Automation tool such as: Rightscale, Scalr, Enstratus- Exposure to Chef, Puppet, or Salt, or related- Exposure to application monitoring tools such as: Splunk, Zabbix, Nagios, OpenNMS, Cacti, etc. - Exposure/experience supporting Databases such as Postgres, Oracle, or MySQL, ETC- RHEL, OEL, Centos- BIP/F5- DBA ExperienceWhat's In It for You- Amazing Health Benefits- Strong Vacation Policy- Strong 401k - Education Reimbursement- Many others as well!So, if you are a Linux Systems Administrator with relevant experience, please apply today! Or simply send your resume to: Lauren@Cybercoders.com
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Headquartered in Virginia, with offices also in NY and PA we strive to bridge the gap between education and technology. Through our innovative software and industry leading partnerships, we are determined to deliver the best educational platforms in both web and mobile to help enhance collaborative online learning environments.  Currently, we are in need of a DevOps Engineer in our Atlanta, GA office.Top Reasons to Work with UsExperiencing tons of growthCareer AdvancementWork/life balanceWhat You Will Be Doing-Configuring both linux and windows servers to run our custom applications.-Installing automatic code deployments from Github-Configuring continuous integration with Jenkins-Creating a server orchestration platform with puppet, chef or ansible-Using CloudFormation to group resources and roles-Focus on developing programmatic solutions to our growing infrastructureWhat You Need for this Position-Experience with scripting languages (Python, Ruby, Shell) -Must have experience with Linux System Administration-Experience with deployment technologies (Chef, Puppet)-AWS experience, including both not limited to Cloud Formation Code Deploy Elastic Load Balancing / Auto Scaling Groups-Microsoft Azure experience, including but not limited to Virtual Machines / Cloud Services SQL Database / Redis Cache Load Balancer-Experience with server orchestrationWhat's In It for You-Competitive Base Salary -Full Medical, Dental, Vision-PTO-401k-Paid Holidays-Flex Spending-Custom Work Environment-Flexible Hours-Commuter Benefits (partial TELECOMMUTE)-BonusIf you are an EXCELLENT DevOps Engineer, please apply immediately to this opportunity.
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Based in the San Francisco Bay Area, we are a growing start-up that is revolutionizing how Healthcare and the cloud work together.  We are experiencing rapid growth and need someone who is interested in joining a small, but smart and talented team of engineers and share in our passion for success.  This person will  work collaboratively with software engineers to deploy, operate and scale systems, automate and streamline operations and processes. You will build and maintain tools for deployment, monitoring and operations, while troubleshooting and resolving issues in the development, test and production environments.  Currently, we need someone to join us in Sunnyvale, CA!Top Reasons to Work with Us1. Pre-IPO2. Big impact to company3. Growing fieldWhat You Will Be Doing- Create cloud formation templates to build AWS services that support our custom Java/Scala/C++/Native Mobile platform- Automate and monitor deployment of database and application servers, including Oracle, Postgres, JVM, C++- Automate, monitor and report on system performance, using Logstash, Kafka, and New Relic- Implement new tools to increase productivity, security, reliability and performance- Create and maintain automated application builds (currently Jenkins)- Document designs, unit test plans and end user guides- Troubleshoot software related performance issuesWhat You Need for this Position- At least 3-5 years of experience in AWS cloud-based DevOps role (and more is better)- Strong background in Linux/Unix Administration, including tuning and monitoring- Experience with Chef, Puppet, or an equivalent - A working understanding of code and script (PHP, Python, Perl and/or Ruby, Bash or an equivalent)- Experience with automating monitors and system performance reporting (Logstash, Kafka, and New Relic)- AWS experience with EC2, S3, load balancing, fault tolerance, auto scaling, cloud formation, VPC- Ability to harden OS or utilize other industry best practice to Secure AWS environmentWhat's In It for You-Competitive Base Salaries-Stock/equity-Latest and greatest in hardware/tools-Bonus-PTO-Full medical, dental, vision coverage-Much more!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+An established marketing firm in a fun & fast paced atmosphere is in rapid growth mode and looking for talented DevOps Engineers with strong experience working in dynamic environments. This is an extremely collaborate environment where you will have the opportunity to grow quickly as the company continues to invest heavily in all of their technology initiatives. The current urgent need is for a DevOps Engineer with strong experience with database administration, AWS and Linux. If this sounds like you, please read on and you are encouraged to apply ASAP!What's In It for You- Competitive base salary- Remote Opportunities - Comprehensive benefits package (Health, Dental Vision)- Paid Vacation - Other Cool Perks!What You Will Be Doing- Maintain & improve the AWS cloud to support our applications- Configuration, deployment & administration of cloud application services & systems- Engineer & realize automated administrative solutions - Help streamline our operations and processes- Troubleshoot and resolve issues for our environmentWhat You Need for this PositionREQUIREMENTS:-Strong experience with Linux-3+ years experience AWS-Database administration experience (MySQL, NoSQL, MongoDB)-Jenkins, Vagrant, GitNICE TO HAVE SKILLS:-AWS certification preferred-Supporting load testing-ActiveMQ or RabbitMQ-Chef, Puppet or equivalentDevOps Engineers with strong AWS experience are encouraged to apply ASAP or you can send your resume to me directly at Alex.Mraz@cybercoders.com
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+A technology solutions firm with heavy software focus is in rapid growth mode and looking for talented DevOps Engineers with strong experience working in dynamic environments. This is an extremely collaborate environment where you will have the opportunity to grow quickly as the company continues to invest heavily in all of their technology initiatives. The current urgent need is for a DevOps Engineer with strong AWS experience and automation with Chef or Puppet. If this sounds like you, please read on and you are encouraged to apply ASAP!What's In It for You- Competitive base salary- Comprehensive benefits package (Health, Dental Vision)- Paid Vacation - Other Cool Perks!What You Will Be Doing- Working with our software team on our SaaS solution- Help streamline our operations and processes- Building and maintaining tools for deployment- Troubleshoot and resolve issues for our environment- Develop tools/scripts to improve efficiency of operational tasksWhat You Need for this PositionREQUIREMENTS:-3+ years DevOps Experience-Strong AWS Experience-Chef, Puppet or equivalent-Perl-Experience running & deploying applications in AWSNICE TO HAVE SKILLS:-AWS certification preferred-Strong Linux/Unix Administration background-SQL and MySQL experience-Knowledge of Java code and scriptDevOps Engineers with strong AWS experience are encouraged to apply ASAP or you can send your resume to me directly at Alex.Mraz@cybercoders.com
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer weighted more on the development side, please read on!We are the future of our industry! We are taking over our space and positively impacting the lives of others all around the world! We have created a cloud based application platform serving 15 of the top 20 global companies in our field. We recently received over $20 million in funding and are rapidly growing.There is no better time to join our vastly growing organization than right now! We are gearing up for immense success and we are seeking an talented and creative DevOps Engineer to join us on this journey. We are looking for someone that likes to be challenged and enjoys pushing boundaries.  If this sounds like something you are interested in, please apply now or send your email to Alexa.Shanahan@cybercoders.com (subject title: Senior DevOps Engineer)Top Reasons to Work with Us•Exciting work environment!•Lots of room for career growth!•Awarded Best Business Application by Amazon!What You Will Be Doing•Develop and maintain tools used to support the operation, deployment and management of our award winning cloud application platform•Monitor and manage our cloud platform•Solve/address any system, application, or network issuesWhat You Need for this Position•Hands-on experience developing tools and processes to support the deployment and management of a distributed system in a Unix environment•Python, Boto, Bash, or Perl•Puppet/mcollective, Nagios, etc.•Linux• AWSWhat's In It for You•Competitive salary up to 120K!•Benefits•Exciting environment!!•Rewarding career paths!•Award winning product•Work/life balance•Recently received over $20 million in fundingSo, if you are a DevOps Engineer with experience, please apply today or email your resume to Alexa.Shanahan@CyberCoders.com (word format and salary expectations please!)
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Headquartered in Virginia, with offices also in NY and PA we strive to bridge the gap between education and technology. Through our innovative software and industry leading partnerships, we are determined to deliver the best educational platforms in both web and mobile to help enhance collaborative online learning environments.  Currently, we are in need of a DevOps Engineer in our Stroudsburg, PA location (partial telecommute).Top Reasons to Work with UsExperiencing tons of growthCareer AdvancementWork/life balanceWhat You Will Be Doing-Configuring both linux and windows servers to run our custom applications.-Installing automatic code deployments from Github-Configuring continuous integration with Jenkins-Creating a server orchestration platform with puppet, chef or ansible-Using CloudFormation to group resources and roles-Focus on developing programmatic solutions to our growing infrastructureWhat You Need for this Position-Experience with scripting languages (Python, Ruby, Shell) -Must have experience with Linux System Administration-Experience with deployment technologies (Chef, Puppet)-AWS experience, including both not limited to Cloud Formation Code Deploy Elastic Load Balancing / Auto Scaling Groups-Microsoft Azure experience, including but not limited to Virtual Machines / Cloud Services SQL Database / Redis Cache Load Balancer-Experience with server orchestrationWhat's In It for You-Competitive Base Salary -Full Medical, Dental, Vision-PTO-401k-Paid Holidays-Flex Spending-Custom Work Environment-Flexible Hours-Commuter Benefits (partial TELECOMMUTE)-BonusIf you are an EXCELLENT DevOps Engineer, please apply immediately to this opportunity.
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Our growing organization in the ad space is looking for a DevOps Engineer to come join our award winning team. We offer a great training program so you can learn the latest technologies with us. We need someone with solid experience in a Linux environment who can do some work with AWS and some coding with Python. We're taking companies like Google and Facebook head on and we aren't backing down! We believe that our team has some of the smartest minds in all of NYC and we're looking to grow the team. We have Fortune 100 clients throughout the country and our client base is only growing. This is an amazing opportunity to get into a company with an extremely bright future when we're still on the up. We need a person who is as passionate about technology as us to join the team!Top Reasons to Work with Us1. We're one of the fastest growing companies in New York City2. 100% covered health benefits3. We work with the latest technologies on the market and we're open to new ideasWhat You Will Be Doing- Own our systems infrastructure- Ensure the stability and uptime of our platform- Build scaleable solutions for maintaining our Continuous Deployment and Integration architecture- Actively monitor infrastructure performance and identify and correct any anomalies- Monitor and tune the performance of the infrastructureWhat You Need for this Position- Knowledge of Linux configuration and operation in large real or virtual datacenters - Have experience scripting in Python or Bash- Experience with PostgreSQL, MySQL, MongoDB, Zookeeper, Cassandra or NoSQL- Loadbalancers (Big IP, AWS ELB, Haproxy)- Exposure to queuing (Kafka, ActiveMQ, RabbitMQ, etc.)- Experience with integration systems (Jenkins or Sonar)- Chef, Puppet or Ansible experience preferred (but we teach it)What's In It for YouFor your hard work, we offer some of the top salaries in the city of New York. We have 100% covered health benefits as well as other awesome perks. We allow our team to work with almost any technology they desire if it fits the bill of what we're looking for! Our company has profit sharing as well we stock options potentially.So, if you are a DevOps Engineer with the experience needed then please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a VP of DevOps with experience, please read on!We are driving a high-speed design and technology revolution that is transforming the way the financial industry uses, processes and interacts with data. Today, any investment manager can have access to a first-class integrated investment platform through the cloud. We are the first true cloud platform for the securities market. Since our launch a few years ago, we have over 100,000 users in excess of 1 trillion assets, accessing information securely from any location with any device. Unleash your data potential.Top Reasons to Work with Us•Be a part of an amazing company that will take your career and your passion to the next level•Tons of room for career growth and opportunity!•Work with amazing and collaborative coworkers who like showing up to workWhat You Will Be Doing•Help review and make recommendations for infrastructure initiatives•Plan, refine, and improve monitoring and performance metrics•Teach and mentor others in system administration•Develop Chef recipes and cookbooks for managing our infrastructure•Automate repetitive tasks and contribute to a continuous delivery pipeline•Troubleshoot issues in any part of the pipeline (dev/test/production)•Serve as an escalation point for on-call personnelWhat You Need for this Position•Amazon Web Services preferred, however, we will consider candidates who have strong experience with other cloud providers (Google Cloud, Rackspace Managed Cloud, Microsoft Azure) and who we believe demonstrate a strong ability to ramp up on AWS•Linux server products and administration•Linux scripting languages •Distributed system architectures including, but not limited to, message queues (RabbitMQ, Kafka), RDBMS sharding/partitioning, distributed data stores (key/value and others)•Continuous integration & Delivery•Chef, Puppet, Ansible, AWSWhat's In It for You•Competitive base salary•Comprehensive benefits•401k•Bonus•PTOSo, if you are a VP of DevOps with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with experience, please read on!Based in beautiful Wisconsin, we are  the most innovative practice management and EHR software in the industry.  We support mental, behavioral, and chemical health providers, no matter the size.  We were rated one of the fastest growing technologies in 2015, and are continuing to grow by the day! Currently we are looking to hire an innovative DevOps Engineer to work on our software development team to improve our software.  If you want to be a part of a company that has amazing potential and an innovative work environment, this is the perfect position for you!Top Reasons to Work with Us1. Innovative/Casual work environment2. Dynamic and comprehensive benefit package3. Flexible work scheduleWhat You Need for this PositionAt Least 1 Year of experience and knowledge of:- Linux- Python- DevOps- Java- C++- MySQLPlus Skills (Not Required) - Knowledge of OpenStack, kvm, VMware, Docker- Hands-on experience with administrating local servers: RAID, NFS, package managers, file systems- Experience with cloud computing: AWS, RDS, load balancing, auto-scaling, boto, libcloud- Automation - Puppet/Chef/Salt/AnsibleWhat's In It for YouWe are willing to offer excellent compensation packages including Bonuses, Benefits, a flexible work schedule and an innovative work environment with our company!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with experience, please read on!What You Will Be Doing- Build and improve platform services including web application hosting, databases, and networking- Automate the provisioning, configuration, scaling, and monitoring of our platform- Manage vendors and integrations used to deliver Ice.com services- Automate configurations and templates for various linux based services- Measure and maintain reliability through instrumentation and monitoring- Interface with multiple development teams to provide services and support- Promote knowledge sharing and DevOps culture across our entire engineering departmentNote: This role is 50% DevOps 50% DevelopmentWhat You Need for this Position- BS in Computer related field or equivalent experience- 3+ years of experience with Linux administration- Continuous Delivery, test automation, deploy automation- Application deployment on AWS- Hands on experience in AWS provisioning and good knowledge of AWS services - Relational and NoSQL databases- Experience running a large-scale web operation- Experience with configuration management tools (ansible, fabric, etc)- Strong Linux skills - Strong Python development/scripting experience- Hands-on knowledge of high-availability approaches such as load balancing, failover, clustering and disaster recovery- Familiarity with performance and security best practicesWhat's In It for YouCompetitive SalaryMedical, Dnetal, VisionPTOFree Lunch everyday!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer, Systems Engineer or Linux Administrator with a passion for making an impact and improving things, please read on!What You Will Be DoingAs we scale up our infrastructure, increase the volume of data processed and sign up new customers, the need for a formalized DevOps function is becoming critical. The team has the following scope:- Manage deployment lifecycle- Manage AWS infrastructure- Operational support- SecurityResponsibilities:- Develop and maintain automation tools to maintain multiple environments for development, testing, UAT and production supporting rapid release cycles.- Develop, maintain and utilize monitoring tools, scripts and applications to proactively identify problems across environments and minimize downtime and participate in an on-call rotation.- Perform security, performance, and availability assessments.- Influence and create standards and methods for deployment of large-scale distributed systems.- Learning (and sharing) new skills through independent research, formal training, and industry events.- Systematic problem solving approach, coupled with a strong sense of ownership and drive.What You Need for this Position- At least 5 years hands-on experience in UNIX systems administration / operations of mission critical software infrastructure.- At least 5 years hands-on experience in web technologies and applications for building, deploying and monitoring them.- Expertise with Amazon Web Services or other cloud-based infrastructure- Expertise with DevOps tools such as Puppet, Chef, PagerDuty, Splunk- Experience using JIRA or other agile task management tools.- Experience in one or more of the following shell scripts, Ruby or Python.So, if you are a DevOps Engineer, Systems Engineer or Linux Administrator with a passion for making an impact and improving things, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer, proficient in scripting and have experience with automation tools, please read on!
+
+Located on the Chelsea Piers, we are a booming start-up with the education space.  With our fast growth, we are in need of a stellar DevOps engineer to add to talented team.   We are well funded and using the newest technologies!  We are ready to pay top dollar for a stellar engineer!What You Need for this Position- BS Degree
+- 3+ years of DevOps experience
+- Scripting experience, preferably with Pythin
+- Cloud experience with Amazon Web Services (S3, EC2, Route 53)So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are smart engineer looking to move into DevOps, or if you are already a SysAdmin or DevOps engineer, take a look here!Top Reasons to Work with UsAll applicants must be strong/expert PowerShell Coders.1. CASH Sign-On Bonus2. 10% Year End Bonus3. 12% GIFTED 401k4. Work Remote 1 or 2 days, depending on commute!5.  9 paid holidays off, 18 days PTO (rolls over YoY)6.  Summer hours, flexible for family and personal issues.7. Personal Education Budget of $5k for professional/personal growth.8. Salary $100-$110k BASEWe are building a team of DevOps engineers to help manage our growing digital presence as a Financial oversight non-profit company.  Our organization is one of the most highly regarded institutions in the financial space.  We're moving pretty fast and would like to hire someone in the next two weeks for this role.  We need a Software Engineering Professional to help us build new cutting-edge features to ensure our organization stays on the forefront of the industry.  You would be joining a small DevOps team (less than 5) to problem solve and find solutions for issues as they arise.  We are looking for smart, coach-able people with a passion for coding!  On the other hand, if you are seriously ready to learn a new skill and advance your breadth of knowledge in DevOps,  this is the job for you.  So even if you have no DevOps experience, but are eager to learn with a strong programming/coding foundation, we would want to talk with you.  A majority of our team has been here working together for over 20 years, and we value our friendship in addition to just being colleagues.  The work environment is friendly and VERY FLEXIBLE!What You Will Be DoingWriting Code and maintaining our system with the other team members.  -Configuration, Automation, Deployment, etc.-Build/administer servers like hotcakes.What You Need for this PositionBesides a broad technical background and expert scripting/coding skills?  MOST DESIRABLE SKILLS:Powershell, Bash, AWS, TFS, DSCSECOND BEST SKILLS:Ansible, Docker, Puppet, Python, VMWare, C#, JenkinsTHIRD BEST SKILLS:Ruby, Rackspace, OpenStack, Chef, GIT, Azure, .NET, Linux, SQL/NoSQL, Splunk, JBoss, SVN#Extensive PowerShell experience#Solid understanding and experience working with high availability and high performance, multi-data center systems and hybrid cloud environments.#Proficient with Agile methodologies and working closely within small teams and vendors#Knowledge of Deployment and configuration automation platforms#Extensive knowledge of Windows based systems including hardware, software and .NET applications#Ability to troubleshoot complex issues #Experience with version control systems such as TFS#Excellent interpersonal skills#Excellent written, verbal, and listening communication skills #Flexibility in competently juggling competing priorities and changing expectations#Must demonstrate outstanding judgment and mature business skills #Excellent consulting, problem solving, and analytical skillsWhat's In It for YouAmazing benefits: 12% gifted 401k, 18 PTO , personal educational budget ($5k), flexible and summer hours, mentors for growth, Medical/Dental/Vision coverage, 10% bonus, CASH SIGN ON BONUS... Love the people you work with!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Based in Silicon Valley, our product is a Cloud infrastructure for analytics at scale. Our product is loved by our customers for its ease of use and reliability. In the fiercely competitive big data analytics space, this is a huge differentiator. We are WELL-FUNDED by some of the biggest, well-known investment groups in the country.We will offer the right candidate a competitive salary, plus 401k, Life Insurance, Great PTO/Holiday Plan, Excellent Health Benefits(medical, dental, vision), Lunches catered daily, a Mac computer (Unless you want something different) and a fun, casual work environment.Top Reasons to Work with Us1. Amazing Technical Stack2. Awesome Company Perks3. Great PayWhat You Will Be DoingIf you have implemented and supported a cutting edge public cloud environment, have excellent analytical skills, and a passion for scalable and stable engineering environments, we want to talk with you!  Working closely with our engineering team, you will implement and scale our predominantly Ruby and Java-based architecture.Manage PostgreSQL/MySQL databases and traditional k-v stores and clustersManage 200+ cloud servers using automation toolsInvestigate of system errors and problemsPerform bottleneck analysis of the system for scalingSetup monitoring systems and application metrics as well as supervise them for prediction/detection of failuresWhat You Need for this Position3+ years of experience installing, maintaining, tuning, and scaling PostgreSQL/MySQL (or other relational database) clusters5 years of experience of managing servers with using Chef, Puppet, Ansible, etc.5 years of experience of Ruby/Python scripting for automation of continuous integration and continuous deployment systems, cluster setup and teardown, and computing and storage resource autoscalingDeep knowledge on cloud APIs for automation of server management.WE WOULD BE THRILLED IF YOU HAVE:Experience with search engines (ElasticSearch, Solr, ...)Experience with key-value stores and caching (Cassandra, Redis, Memcached, ...)Familiarity with Kafka and other messaging systems (RabbitMQ, MQTT, AMPQ, …)At Least 5 Years of experience and knowledge of:- Linux- Python- DevOps- MySQL/PostgreSQL- Chef/Puppet/Ansible- Ruby on Rails- Cloud APIsWhat's In It for YouAmazing PayPartial work from homeGreat Company PerksSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with experience, please read on!What You Will Be Doing- Build and improve platform services including web application hosting, databases, and networking- Automate the provisioning, configuration, scaling, and monitoring of our platform- Manage vendors and integrations used to deliver Ice.com services- Automate configurations and templates for various linux based services- Measure and maintain reliability through instrumentation and monitoring- Interface with multiple development teams to provide services and support- Promote knowledge sharing and DevOps culture across our entire engineering departmentNote: This role is 50% DevOps 50% DevelopmentWhat You Need for this Position- BS in Computer related field or equivalent experience- 3+ years of experience with Linux administration- Continuous Delivery, test automation, deploy automation- Application deployment on AWS- Hands on experience in AWS provisioning and good knowledge of AWS services - Relational and NoSQL databases- Experience running a large-scale web operation- Experience with configuration management tools (ansible, fabric, etc)- Strong Linux skills - Strong Python development/scripting experience- Hands-on knowledge of high-availability approaches such as load balancing, failover, clustering and disaster recovery- Familiarity with performance and security best practicesWhat's In It for YouCompetitive SalaryMedical, Dnetal, VisionPTOFree Lunch everyday!So, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+Located in Portland, OR, we are a legal management system looking for an experience DevOps Engineer to join our tech team and contribute to all aspects of our development process such as maintaining CI builds and environments, deploying solutions, supporting production systems and many more interesting operations along the way. This position is definitely for you if you are a professional with a desire to take on challenging projects and improve your technical skills while being able to make big money and have a successful career in the tech industry. The hiring process starts today! Interested candidates should submit their resume as soon as possible for immediate consideration.Top Reasons to Work with Us- Financial Growth- Our benefits will blow you away- Work-life balance- Exciting culture!What You Need for this PositionAt Least 3 Years of experience and knowledge of:- Team Foundation Server experience- CI/CD Systems- Microsoft SQL 2008 R2- MS Powershell- IIS 7 - 8.5- TFS / Jenkins / Cruise Control- Chef / Puppet / Salt- XebiaLabs / Electric Cloud / Serena- C# / .NET- HUGE PLUS: NoSQL / MongoDB / RDBMS / MySQLSo, if you are a DevOps Engineer with experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are a DevOps Engineer with Python and Bash experience, please read on!Based in Redwood City, CA we are a very exciting start-up company that is progressively moving forward. We are a well-funded company that is growing fast with a vision of changing and innovating data tools worldwide. We have exceptional leadership, and are continuing to grow some of the most talented engineering teams around. Currently, we are looking to hire for extremely talented DevOps Engineers  with a strong Linux System Administration background, and hands on experience with automation, Puppet, Chef, and Graphite .  So if you have strong server administration background, and have a database expertise in Python, and Bash we would love to tell you more about this amazing opportunity.Top Reasons to Work with Us1. Competitive salary, compensation, and Equity2. Full benefits, health, dental, vision, and 401k Plan3. Great company culture and career growth opportunitiesWhat You Will Be Doing- Configure storage, switches, and servers- Work with high volume systems- Automation - Design and deploy analytic platform - DevOps - Agile Framework - Database managementWhat You Need for this PositionAt Least 3 Years of experience and knowledge of:- Linux Administration - Distributed Systems- Python- BASH- Puppet/Chef- graphite- Collectd- Hadoop- Amazon EC2- cluster deploymentsSo, if you are a DevOps Engineer with Python and Bash experience, please apply today!
+Applicants must be authorized to work in the U.S.
+
+
+Job Details
+
+
+Posted Today
+                    
+
+If you are an experienced DevOps Engineer with Chef Experience please read on!Located in sunny West Los Angeles, CA, we are  the Ad-Tech arm of a large media conglomerate!  We are revolutionizing online marketing engagement for top brands around the world. Our goal is to establish deeper connections with online consumers using a stronger and more direct approach. We reach billions of eyes across the globe in an array of hot industries, from music and video to social gaming and sports. We are building a next-generation Ad platform and integrating brands into mobile-first content in the process. If you want to join a top tech team and work with some of the latest and greatest technologies then this opportunity is for you!Top Reasons to Work with Us- Exciting culture (We are firm believers in work/life balance)- Work with a top notch tech team using new technologies!What You Will Be Doing- Designing and performing system, database and configuration management- Coordinate tests of new software and systems- Plan and define requirements for off-hour systems maintenance work.- Define and implement security controls and capabilities in operating systems- Install and configure Linux systems- Interface with users and developers in order to resolve technical issuesWhat You Need for this Position- 3+ years of DevOps experience- Chef experience (with Ruby is a plus)- AWS experience- Large scale infrastructure experience- We are interested in using Docker (we aren't currently using it but if you have experience that is a plus!)What's In It for You- Competitive Compensation- Full Benefits- Awesome office location- Work with an A+ tech team!So, if you are a DevOps Engineer with experience, please apply today!
